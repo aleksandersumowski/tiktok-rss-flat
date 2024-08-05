@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-04T22:09:38+00:00</updated>
+  <updated>2024-08-05T18:08:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7396461248763776299</id>
-    <title>#education #mentalhealth #media #communication #PhD #doit #healing #action #fypp </title>
-    <updated>2024-07-27T23:27:22+00:00</updated>
-    <content>#education #mentalhealth #media #communication #PhD #doit #healing #action #fypp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7396461248763776299"/>
-    <published>2024-07-27T23:27:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7396727482625379627</id>
-    <title>#duet with @brett where’s the lie? Say it for social scientists and humanities broadly #education #humanities #fypp #media #communication #PhD #criticalmediaecology </title>
-    <updated>2024-07-28T16:40:29+00:00</updated>
-    <content>#duet with @brett where’s the lie? Say it for social scientists and humanities broadly #education #humanities #fypp #media #communication #PhD #criticalmediaecology </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7396727482625379627"/>
-    <published>2024-07-28T16:40:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7396737172885212459</id>
     <title>All of these things can be and are simultaneously true. By design whiteness robs folks of community, as does nationalism in a serious way. It is well documented that we have all also been surviving a global loneliness epidemic and seggs apocalypse (that I</title>
@@ -251,6 +235,14 @@
     <content>#autisticcreator #safefood #neurodivergent #fuck </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7399409902612942123"/>
     <published>2024-08-04T22:09:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7399718735877082411</id>
+    <title>#stockmarket #millennial #uhoh #funny #unitedstates </title>
+    <updated>2024-08-05T18:08:06+00:00</updated>
+    <content>#stockmarket #millennial #uhoh #funny #unitedstates </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7399718735877082411"/>
+    <published>2024-08-05T18:08:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7263579403295264042</id>
