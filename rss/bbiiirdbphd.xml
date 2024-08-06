@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-05T18:08:06+00:00</updated>
+  <updated>2024-08-06T16:14:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7397126998503705902</id>
-    <title>A real conversation probably #education #skit #fypp </title>
-    <updated>2024-07-29T18:30:49+00:00</updated>
-    <content>A real conversation probably #education #skit #fypp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7397126998503705902"/>
-    <published>2024-07-29T18:30:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7397133019770916139</id>
     <title>#education #health #wellness #sick #disease #wearamask #community #carework #fypp #skit #dry #funny #dobetter </title>
@@ -235,6 +227,14 @@
     <content>#stockmarket #millennial #uhoh #funny #unitedstates </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7399718735877082411"/>
     <published>2024-08-05T18:08:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7400060458016804142</id>
+    <title>#media #communication #PhD #millennial #stockmarket #neurodivergent #why #fypp </title>
+    <updated>2024-08-06T16:14:08+00:00</updated>
+    <content>#media #communication #PhD #millennial #stockmarket #neurodivergent #why #fypp </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7400060458016804142"/>
+    <published>2024-08-06T16:14:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7263579403295264042</id>
