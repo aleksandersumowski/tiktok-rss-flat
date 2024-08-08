@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-08T00:21:55+00:00</updated>
+  <updated>2024-08-08T19:24:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7398570919880412458</id>
-    <title>I wrote about this in my publication Requirement Politics #education #harassment #democrats #lib #media #communication #PhD #fypp #workersrights #nope </title>
-    <updated>2024-08-02T15:54:00+00:00</updated>
-    <content>I wrote about this in my publication Requirement Politics #education #harassment #democrats #lib #media #communication #PhD #fypp #workersrights #nope </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7398570919880412458"/>
-    <published>2024-08-02T15:54:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7398576612700065067</id>
     <title>#education #health #research #media #communication #PhD </title>
@@ -227,6 +219,14 @@
     <content>#education #health #media #communication #PhD #fypp #violence #millennial #online </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7400557256204356906"/>
     <published>2024-08-08T00:21:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7400851615189601579</id>
+    <title>Fame won’t save you from 🦠 #education #health #fame #media #communication #PhD #influencer #celebrity #ethics </title>
+    <updated>2024-08-08T19:24:10+00:00</updated>
+    <content>Fame won’t save you from 🦠 #education #health #fame #media #communication #PhD #influencer #celebrity #ethics </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7400851615189601579"/>
+    <published>2024-08-08T19:24:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7263579403295264042</id>
