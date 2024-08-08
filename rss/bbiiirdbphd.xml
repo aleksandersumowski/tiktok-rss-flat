@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-07T18:32:16+00:00</updated>
+  <updated>2024-08-08T00:21:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,38 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7397844038973492523</id>
-    <title>#education #friend #lonely #media #communication #PhD #dissertation #research #bot #millennial #research #AI #surveillance #privacy #fypp </title>
-    <updated>2024-07-31T16:53:16+00:00</updated>
-    <content>#education #friend #lonely #media #communication #PhD #dissertation #research #bot #millennial #research #AI #surveillance #privacy #fypp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7397844038973492523"/>
-    <published>2024-07-31T16:53:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7397902456287497515</id>
-    <title>#mystery #science #theatre #media #communication #PhD #millennial #education #fun </title>
-    <updated>2024-07-31T20:39:58+00:00</updated>
-    <content>#mystery #science #theatre #media #communication #PhD #millennial #education #fun </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7397902456287497515"/>
-    <published>2024-07-31T20:39:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7398285597594373419</id>
-    <title>This video is for educational purposes 🌻🐦‍⬛ #education #health #medicine #allergy #dairy #science #question #wearamask #fypp </title>
-    <updated>2024-08-01T21:26:42+00:00</updated>
-    <content>This video is for educational purposes 🌻🐦‍⬛ #education #health #medicine #allergy #dairy #science #question #wearamask #fypp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7398285597594373419"/>
-    <published>2024-08-01T21:26:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7398568030332128555</id>
-    <title>#education #mentalhealth #media #communication #PhD </title>
-    <updated>2024-08-02T15:42:45+00:00</updated>
-    <content>#education #mentalhealth #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7398568030332128555"/>
-    <published>2024-08-02T15:42:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7398570919880412458</id>
     <title>I wrote about this in my publication Requirement Politics #education #harassment #democrats #lib #media #communication #PhD #fypp #workersrights #nope </title>
@@ -227,6 +195,38 @@
     <content>#autisticcreator #autisticadult #media #communication #PhD </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7400467151255047470"/>
     <published>2024-08-07T18:32:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7400505104157117738</id>
+    <title>#greenscreen this was 1 of 6 C19 poems published in the Oct 2021 issue of KGB Bar Lit Mag. #poem #poetry #booktok #sick #love #loneliness #envirusment #isolation #criticalmediaecology #kgb </title>
+    <updated>2024-08-07T20:59:34+00:00</updated>
+    <content>#greenscreen this was 1 of 6 C19 poems published in the Oct 2021 issue of KGB Bar Lit Mag. #poem #poetry #booktok #sick #love #loneliness #envirusment #isolation #criticalmediaecology #kgb </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7400505104157117738"/>
+    <published>2024-08-07T20:59:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7400518046336519467</id>
+    <title>#education #language #bias #media #communication #PhD #norm #violence #exposition </title>
+    <updated>2024-08-07T21:49:48+00:00</updated>
+    <content>#education #language #bias #media #communication #PhD #norm #violence #exposition </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7400518046336519467"/>
+    <published>2024-08-07T21:49:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7400525531869072686</id>
+    <title>#glasses #zenni #funn </title>
+    <updated>2024-08-07T22:18:50+00:00</updated>
+    <content>#glasses #zenni #funn </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7400525531869072686"/>
+    <published>2024-08-07T22:18:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7400557256204356906</id>
+    <title>#education #health #media #communication #PhD #fypp #violence #millennial #online </title>
+    <updated>2024-08-08T00:21:55+00:00</updated>
+    <content>#education #health #media #communication #PhD #fypp #violence #millennial #online </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7400557256204356906"/>
+    <published>2024-08-08T00:21:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7263579403295264042</id>
