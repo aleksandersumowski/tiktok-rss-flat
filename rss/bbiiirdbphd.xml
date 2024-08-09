@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-09T02:18:08+00:00</updated>
+  <updated>2024-08-09T20:03:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7398661329785031978</id>
-    <title>#education #mentalhealth #survival #memoir #millennial </title>
-    <updated>2024-08-02T21:44:46+00:00</updated>
-    <content>#education #mentalhealth #survival #memoir #millennial </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7398661329785031978"/>
-    <published>2024-08-02T21:44:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7398966164388400430</id>
-    <title>#autisticcreator #millennial #memoir #booktok #survival </title>
-    <updated>2024-08-03T17:27:43+00:00</updated>
-    <content>#autisticcreator #millennial #memoir #booktok #survival </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7398966164388400430"/>
-    <published>2024-08-03T17:27:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7398984549436624174</id>
     <title>#education #olympics #wtf #media #communication #PhD #disease #disability #research </title>
@@ -227,6 +211,30 @@
     <content>Your life doesn’t revolve around being served food in restaurant?</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7400958291263687978"/>
     <published>2024-08-09T02:18:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7401178159468629290</id>
+    <title>#storytime #education #fypp #putafingerdownchallenge </title>
+    <updated>2024-08-09T16:31:22+00:00</updated>
+    <content>#storytime #education #fypp #putafingerdownchallenge </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7401178159468629290"/>
+    <published>2024-08-09T16:31:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7401206145588792618</id>
+    <title>#greenscreen #education #health #environment #fypp #media #communication #PhD #billionairesshouldntexist </title>
+    <updated>2024-08-09T18:19:58+00:00</updated>
+    <content>#greenscreen #education #health #environment #fypp #media #communication #PhD #billionairesshouldntexist </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7401206145588792618"/>
+    <published>2024-08-09T18:19:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7401232853800963374</id>
+    <title>Happy </title>
+    <updated>2024-08-09T20:03:34+00:00</updated>
+    <content>Happy </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7401232853800963374"/>
+    <published>2024-08-09T20:03:34+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7263579403295264042</id>
