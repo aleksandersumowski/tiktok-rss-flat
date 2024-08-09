@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-09T00:24:47+00:00</updated>
+  <updated>2024-08-09T02:18:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7398647759567605038</id>
-    <title>#duet with @lanna 🌻 #autisticcreator #millennial #capitalismexplained #fypo </title>
-    <updated>2024-08-02T20:52:08+00:00</updated>
-    <content>#duet with @lanna 🌻 #autisticcreator #millennial #capitalismexplained #fypo </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7398647759567605038"/>
-    <published>2024-08-02T20:52:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7398661329785031978</id>
     <title>#education #mentalhealth #survival #memoir #millennial </title>
@@ -227,6 +219,14 @@
     <content>Everything works out for me tho</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7400929086408805678"/>
     <published>2024-08-09T00:24:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7400958291263687978</id>
+    <title>Your life doesn’t revolve around being served food in restaurant?</title>
+    <updated>2024-08-09T02:18:08+00:00</updated>
+    <content>Your life doesn’t revolve around being served food in restaurant?</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7400958291263687978"/>
+    <published>2024-08-09T02:18:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7263579403295264042</id>
