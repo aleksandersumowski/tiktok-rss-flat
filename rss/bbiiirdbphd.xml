@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-09T21:07:40+00:00</updated>
+  <updated>2024-08-10T18:35:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7398991752662666539</id>
-    <title>This is for educational purposes. #education #health #sick #stroke #heartattack #media #communication #PhD </title>
-    <updated>2024-08-03T19:07:00+00:00</updated>
-    <content>This is for educational purposes. #education #health #sick #stroke #heartattack #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7398991752662666539"/>
-    <published>2024-08-03T19:07:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7399018615644769579</id>
     <title>#coffee #song #viral #fypp </title>
@@ -235,6 +227,14 @@
     <content>#duet with @nikki #Art #millennial #neurodivergent #memoir #survival #violence </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7401249359737834798"/>
     <published>2024-08-09T21:07:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7401581257731181866</id>
+    <title>#greenscreen #education #millennial #neurodivergent #memoir #mentalhealth #fypp </title>
+    <updated>2024-08-10T18:35:37+00:00</updated>
+    <content>#greenscreen #education #millennial #neurodivergent #memoir #mentalhealth #fypp </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7401581257731181866"/>
+    <published>2024-08-10T18:35:37+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7263579403295264042</id>
