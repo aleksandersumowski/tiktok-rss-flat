@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-09T20:03:34+00:00</updated>
+  <updated>2024-08-09T21:07:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7398984549436624174</id>
-    <title>#education #olympics #wtf #media #communication #PhD #disease #disability #research </title>
-    <updated>2024-08-03T18:39:02+00:00</updated>
-    <content>#education #olympics #wtf #media #communication #PhD #disease #disability #research </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7398984549436624174"/>
-    <published>2024-08-03T18:39:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7398986827191045422</id>
-    <title>This is for educational purposes. #education #health #denial #bloodclot #stroke #heartattack #cardiovascular </title>
-    <updated>2024-08-03T18:47:55+00:00</updated>
-    <content>This is for educational purposes. #education #health #denial #bloodclot #stroke #heartattack #cardiovascular </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7398986827191045422"/>
-    <published>2024-08-03T18:47:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7398991752662666539</id>
     <title>This is for educational purposes. #education #health #sick #stroke #heartattack #media #communication #PhD </title>
@@ -235,6 +219,22 @@
     <content>Happy </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7401232853800963374"/>
     <published>2024-08-09T20:03:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7401243003169344814</id>
+    <title>#autisticadult </title>
+    <updated>2024-08-09T20:43:01+00:00</updated>
+    <content>#autisticadult </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7401243003169344814"/>
+    <published>2024-08-09T20:43:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7401249359737834798</id>
+    <title>#duet with @nikki #Art #millennial #neurodivergent #memoir #survival #violence </title>
+    <updated>2024-08-09T21:07:40+00:00</updated>
+    <content>#duet with @nikki #Art #millennial #neurodivergent #memoir #survival #violence </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7401249359737834798"/>
+    <published>2024-08-09T21:07:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7263579403295264042</id>
