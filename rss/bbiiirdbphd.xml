@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-13T23:34:40+00:00</updated>
+  <updated>2024-08-14T16:46:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7400067187014241578</id>
-    <title>#greenscreen #education @Crutches&amp;Spice ♿️ : #newyork #ban #mask #fypp #media #communication #PhD </title>
-    <updated>2024-08-06T16:40:16+00:00</updated>
-    <content>#greenscreen #education @Crutches&amp;Spice ♿️ : #newyork #ban #mask #fypp #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7400067187014241578"/>
-    <published>2024-08-06T16:40:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7400083869329902891</id>
     <title>Replying to @histoftech #education #newyork #ban #mask #fypp #media #communication #PhD </title>
@@ -267,6 +259,14 @@
     <content>#sadness #insideout #drbird </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7402771588447341867"/>
     <published>2024-08-13T23:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7403037496348757294</id>
+    <title>#storytime #credit #score #media #communication #PhD </title>
+    <updated>2024-08-14T16:46:33+00:00</updated>
+    <content>#storytime #credit #score #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7403037496348757294"/>
+    <published>2024-08-14T16:46:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7263579403295264042</id>
