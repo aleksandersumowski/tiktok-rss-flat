@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-16T14:32:34+00:00</updated>
+  <updated>2024-08-16T19:00:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7400462189485772074</id>
-    <title>#greenscreen #education #media #communication #PhD #language #identity #life #community #relationship </title>
-    <updated>2024-08-07T18:13:01+00:00</updated>
-    <content>#greenscreen #education #media #communication #PhD #language #identity #life #community #relationship </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7400462189485772074"/>
-    <published>2024-08-07T18:13:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7400467151255047470</id>
     <title>#autisticcreator #autisticadult #media #communication #PhD </title>
@@ -267,6 +259,14 @@
     <content>Her lack of transparency isn’t okay. There’s no excusing it. #greenscreen #flightlessbird #whatthefuck #unfollow #manipulation #mentalhealth </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7403745117959507243"/>
     <published>2024-08-16T14:32:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7403814166458322222</id>
+    <title>#flightlessbird #whatthefuck #unfollow #manipulation #mentalhealth #neurodivergent </title>
+    <updated>2024-08-16T19:00:24+00:00</updated>
+    <content>#flightlessbird #whatthefuck #unfollow #manipulation #mentalhealth #neurodivergent </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7403814166458322222"/>
+    <published>2024-08-16T19:00:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7263579403295264042</id>
