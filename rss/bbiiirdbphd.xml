@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-15T22:01:41+00:00</updated>
+  <updated>2024-08-16T14:32:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7400435057007004970</id>
-    <title>#greenscreen You can also ofc subscribe to my substack for free 🌻🐦‍⬛🌞❤️‍🩹💙😷 #drbird #media #communication #PhD #education #mentalhealth </title>
-    <updated>2024-08-07T16:27:43+00:00</updated>
-    <content>#greenscreen You can also ofc subscribe to my substack for free 🌻🐦‍⬛🌞❤️‍🩹💙😷 #drbird #media #communication #PhD #education #mentalhealth </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7400435057007004970"/>
-    <published>2024-08-07T16:27:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7400462189485772074</id>
     <title>#greenscreen #education #media #communication #PhD #language #identity #life #community #relationship </title>
@@ -267,6 +259,14 @@
     <content>Replying to @Dr. Bernadette bird Bowen🐦‍⬛ #education #AI #sentience #media #research #communication #PhD #fypp </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7403489792870206763"/>
     <published>2024-08-15T22:01:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7403745117959507243</id>
+    <title>Her lack of transparency isn’t okay. There’s no excusing it. #greenscreen #flightlessbird #whatthefuck #unfollow #manipulation #mentalhealth </title>
+    <updated>2024-08-16T14:32:34+00:00</updated>
+    <content>Her lack of transparency isn’t okay. There’s no excusing it. #greenscreen #flightlessbird #whatthefuck #unfollow #manipulation #mentalhealth </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7403745117959507243"/>
+    <published>2024-08-16T14:32:34+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7263579403295264042</id>
