@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-16T19:00:24+00:00</updated>
+  <updated>2024-08-19T20:10:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7400462189485772074</id>
-    <title>#greenscreen #education #media #communication #PhD #language #identity #life #community #relationship </title>
-    <updated>2024-08-07T18:13:01+00:00</updated>
-    <content>#greenscreen #education #media #communication #PhD #language #identity #life #community #relationship </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7400462189485772074"/>
-    <published>2024-08-07T18:13:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7400467151255047470</id>
-    <title>#autisticcreator #autisticadult #media #communication #PhD </title>
-    <updated>2024-08-07T18:32:16+00:00</updated>
-    <content>#autisticcreator #autisticadult #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7400467151255047470"/>
-    <published>2024-08-07T18:32:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7400505104157117738</id>
     <title>#greenscreen this was 1 of 6 C19 poems published in the Oct 2021 issue of KGB Bar Lit Mag. #poem #poetry #booktok #sick #love #loneliness #envirusment #isolation #criticalmediaecology #kgb </title>
@@ -267,6 +251,22 @@
     <content>#flightlessbird #whatthefuck #unfollow #manipulation #mentalhealth #neurodivergent </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7403814166458322222"/>
     <published>2024-08-16T19:00:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7404941718069529898</id>
+    <title>#creatorsearchinsights #tech #digitalfootprint #data #media #communication #PhD #fypp</title>
+    <updated>2024-08-19T19:55:54+00:00</updated>
+    <content>#creatorsearchinsights #tech #digitalfootprint #data #media #communication #PhD #fypp</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7404941718069529898"/>
+    <published>2024-08-19T19:55:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7404945499662421294</id>
+    <title>Like any word, this term means different things to different people. Here’s what it means to me and why I resonate with it. #creatorsearchinsights #optimisticnihilism #identity #media #communication #PhD</title>
+    <updated>2024-08-19T20:10:35+00:00</updated>
+    <content>Like any word, this term means different things to different people. Here’s what it means to me and why I resonate with it. #creatorsearchinsights #optimisticnihilism #identity #media #communication #PhD</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7404945499662421294"/>
+    <published>2024-08-19T20:10:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
