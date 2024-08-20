@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-20T15:49:28+00:00</updated>
+  <updated>2024-08-20T18:46:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7400557256204356906</id>
-    <title>#education #health #media #communication #PhD #fypp #violence #millennial #online </title>
-    <updated>2024-08-08T00:21:55+00:00</updated>
-    <content>#education #health #media #communication #PhD #fypp #violence #millennial #online </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7400557256204356906"/>
-    <published>2024-08-08T00:21:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7400851615189601579</id>
-    <title>Fame won’t save you from 🦠 #education #health #fame #media #communication #PhD #influencer #celebrity #ethics </title>
-    <updated>2024-08-08T19:24:10+00:00</updated>
-    <content>Fame won’t save you from 🦠 #education #health #fame #media #communication #PhD #influencer #celebrity #ethics </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7400851615189601579"/>
-    <published>2024-08-08T19:24:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7400875266999930154</id>
     <title>#harris #michigan #vote </title>
@@ -267,6 +251,22 @@
     <content>This is my queer agenda #education #mentalhealth #media #communication #PhD </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7405249282804108587"/>
     <published>2024-08-20T15:49:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7405269081064049963</id>
+    <title>Hindsight of Twenty/20s #education #mentalhealth #abuse #trauma #survival #identity #healing #lettinggo </title>
+    <updated>2024-08-20T17:06:18+00:00</updated>
+    <content>Hindsight of Twenty/20s #education #mentalhealth #abuse #trauma #survival #identity #healing #lettinggo </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7405269081064049963"/>
+    <published>2024-08-20T17:06:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7405294866214833450</id>
+    <title>Stop the denial and delusions. Accept reality, let’s fix this shit. </title>
+    <updated>2024-08-20T18:46:21+00:00</updated>
+    <content>Stop the denial and delusions. Accept reality, let’s fix this shit. </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7405294866214833450"/>
+    <published>2024-08-20T18:46:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
