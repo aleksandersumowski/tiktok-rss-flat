@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-19T21:56:06+00:00</updated>
+  <updated>2024-08-20T15:49:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7400518046336519467</id>
-    <title>#education #language #bias #media #communication #PhD #norm #violence #exposition </title>
-    <updated>2024-08-07T21:49:48+00:00</updated>
-    <content>#education #language #bias #media #communication #PhD #norm #violence #exposition </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7400518046336519467"/>
-    <published>2024-08-07T21:49:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7400525531869072686</id>
-    <title>#glasses #zenni #funn </title>
-    <updated>2024-08-07T22:18:50+00:00</updated>
-    <content>#glasses #zenni #funn </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7400525531869072686"/>
-    <published>2024-08-07T22:18:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7400557256204356906</id>
     <title>#education #health #media #communication #PhD #fypp #violence #millennial #online </title>
@@ -267,6 +251,22 @@
     <content>#education #southlake #coins #media #communication #PhD #love #relationships #identity #loneliness #economics #fypp </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7404972696108371242"/>
     <published>2024-08-19T21:56:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7405238190996540718</id>
+    <title>#education #research #tech #media #communication #PhD </title>
+    <updated>2024-08-20T15:06:25+00:00</updated>
+    <content>#education #research #tech #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7405238190996540718"/>
+    <published>2024-08-20T15:06:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7405249282804108587</id>
+    <title>This is my queer agenda #education #mentalhealth #media #communication #PhD </title>
+    <updated>2024-08-20T15:49:28+00:00</updated>
+    <content>This is my queer agenda #education #mentalhealth #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7405249282804108587"/>
+    <published>2024-08-20T15:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
