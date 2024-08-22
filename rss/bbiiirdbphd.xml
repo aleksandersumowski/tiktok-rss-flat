@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-21T17:50:16+00:00</updated>
+  <updated>2024-08-22T15:58:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7400958291263687978</id>
-    <title>Your life doesn’t revolve around being served food in restaurant?</title>
-    <updated>2024-08-09T02:18:08+00:00</updated>
-    <content>Your life doesn’t revolve around being served food in restaurant?</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7400958291263687978"/>
-    <published>2024-08-09T02:18:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7401178159468629290</id>
-    <title>#storytime #education #fypp #putafingerdownchallenge </title>
-    <updated>2024-08-09T16:31:22+00:00</updated>
-    <content>#storytime #education #fypp #putafingerdownchallenge </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7401178159468629290"/>
-    <published>2024-08-09T16:31:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7401206145588792618</id>
     <title>#greenscreen #education #health #environment #fypp #media #communication #PhD #billionairesshouldntexist </title>
@@ -267,6 +251,14 @@
     <content>Thank you </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7405651495003409710"/>
     <published>2024-08-21T17:50:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7405993770791095598</id>
+    <title>#mentalhealth #boundaries #neurodivergent #autistic #sensoryissues #sound #loud #autisticcreator #working </title>
+    <updated>2024-08-22T15:58:26+00:00</updated>
+    <content>#mentalhealth #boundaries #neurodivergent #autistic #sensoryissues #sound #loud #autisticcreator #working </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7405993770791095598"/>
+    <published>2024-08-22T15:58:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
