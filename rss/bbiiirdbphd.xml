@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-22T15:58:26+00:00</updated>
+  <updated>2024-08-23T02:48:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7401206145588792618</id>
-    <title>#greenscreen #education #health #environment #fypp #media #communication #PhD #billionairesshouldntexist </title>
-    <updated>2024-08-09T18:19:58+00:00</updated>
-    <content>#greenscreen #education #health #environment #fypp #media #communication #PhD #billionairesshouldntexist </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7401206145588792618"/>
-    <published>2024-08-09T18:19:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7401232853800963374</id>
     <title>Happy </title>
@@ -259,6 +251,14 @@
     <content>#mentalhealth #boundaries #neurodivergent #autistic #sensoryissues #sound #loud #autisticcreator #working </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7405993770791095598"/>
     <published>2024-08-22T15:58:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7406161236574113070</id>
+    <title>Coca-cola better sponsor me after this </title>
+    <updated>2024-08-23T02:48:15+00:00</updated>
+    <content>Coca-cola better sponsor me after this </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7406161236574113070"/>
+    <published>2024-08-23T02:48:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
