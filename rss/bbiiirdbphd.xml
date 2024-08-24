@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-23T18:40:04+00:00</updated>
+  <updated>2024-08-24T19:31:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7401249359737834798</id>
-    <title>#duet with @nikki #Art #millennial #neurodivergent #memoir #survival #violence </title>
-    <updated>2024-08-09T21:07:40+00:00</updated>
-    <content>#duet with @nikki #Art #millennial #neurodivergent #memoir #survival #violence </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7401249359737834798"/>
-    <published>2024-08-09T21:07:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7401581257731181866</id>
     <title>#greenscreen #education #millennial #neurodivergent #memoir #mentalhealth #fypp </title>
@@ -259,6 +251,14 @@
     <content>Replying to @Dr. Bernadette bird Bowen🐦‍⬛ everyone asked for this </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7406406504238239022"/>
     <published>2024-08-23T18:40:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7406790888388627755</id>
+    <title>#greenscreen #education #relationships #virus #sick #violence #media #loneliness #communication #PhD #fypp </title>
+    <updated>2024-08-24T19:31:36+00:00</updated>
+    <content>#greenscreen #education #relationships #virus #sick #violence #media #loneliness #communication #PhD #fypp </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7406790888388627755"/>
+    <published>2024-08-24T19:31:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
