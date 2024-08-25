@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-24T23:07:55+00:00</updated>
+  <updated>2024-08-25T18:39:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7401622697786019115</id>
-    <title>#duet with @Sophia #bebetter #insecure #mentalhealth </title>
-    <updated>2024-08-10T21:16:24+00:00</updated>
-    <content>#duet with @Sophia #bebetter #insecure #mentalhealth </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7401622697786019115"/>
-    <published>2024-08-10T21:16:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7401992269504548138</id>
     <title>#lifeupdate #autisticcreator #support #academic #book </title>
@@ -259,6 +251,14 @@
     <content>Everyday I wake up and remember that I should be living the rest of my life on multiple seggual violence settlements paid by boys and men in my teens and twenties but instead I live paycheck to paycheck because this system is run by and protects abusers #</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7406846632748223787"/>
     <published>2024-08-24T23:07:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7407148615816432942</id>
+    <title>#fitcheck #nonbinary #enby #media #communication #PhD  #identity #neuroqueer #fypp </title>
+    <updated>2024-08-25T18:39:48+00:00</updated>
+    <content>#fitcheck #nonbinary #enby #media #communication #PhD  #identity #neuroqueer #fypp </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7407148615816432942"/>
+    <published>2024-08-25T18:39:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
