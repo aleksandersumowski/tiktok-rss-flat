@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-29T15:53:37+00:00</updated>
+  <updated>2024-08-29T17:40:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7403452956621671722</id>
-    <title>#greenscreen #education #media #communication #PhD #health #emergency #sick #treatment #guideliness #nih </title>
-    <updated>2024-08-15T19:38:42+00:00</updated>
-    <content>#greenscreen #education #media #communication #PhD #health #emergency #sick #treatment #guideliness #nih </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7403452956621671722"/>
-    <published>2024-08-15T19:38:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7403476435731615018</id>
-    <title>#education #AI #sentience #media #communication #PhD #existential #phenomenology #identity #chatgpt #mimic </title>
-    <updated>2024-08-15T21:09:50+00:00</updated>
-    <content>#education #AI #sentience #media #communication #PhD #existential #phenomenology #identity #chatgpt #mimic </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7403476435731615018"/>
-    <published>2024-08-15T21:09:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7403489792870206763</id>
     <title>Replying to @Dr. Bernadette bird Bowen🐦‍⬛ #education #AI #sentience #media #research #communication #PhD #fypp </title>
@@ -259,6 +243,22 @@
     <content>#education #logics #practice #media #communication #PhD #plastic #research #poison #colonial #capitalism #fypp #humor #parody #resistance </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7408590137640176938"/>
     <published>2024-08-29T15:53:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7408597740776721707</id>
+    <title>#greenscreen #autistic #tim #education #eugenics #media #communication #PhD #walz </title>
+    <updated>2024-08-29T16:23:08+00:00</updated>
+    <content>#greenscreen #autistic #tim #education #eugenics #media #communication #PhD #walz </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7408597740776721707"/>
+    <published>2024-08-29T16:23:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7408617755743898926</id>
+    <title>#greenscreen #education #media #communication #PhD #plastic #PFAS #poison #fypp </title>
+    <updated>2024-08-29T17:40:48+00:00</updated>
+    <content>#greenscreen #education #media #communication #PhD #plastic #PFAS #poison #fypp </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7408617755743898926"/>
+    <published>2024-08-29T17:40:48+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
