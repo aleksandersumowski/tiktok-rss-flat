@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-08-29T21:33:30+00:00</updated>
+  <updated>2024-08-31T00:21:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7403745117959507243</id>
-    <title>Her lack of transparency isn’t okay. There’s no excusing it. #greenscreen #flightlessbird #whatthefuck #unfollow #manipulation #mentalhealth </title>
-    <updated>2024-08-16T14:32:34+00:00</updated>
-    <content>Her lack of transparency isn’t okay. There’s no excusing it. #greenscreen #flightlessbird #whatthefuck #unfollow #manipulation #mentalhealth </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7403745117959507243"/>
-    <published>2024-08-16T14:32:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7403814166458322222</id>
     <title>#flightlessbird #whatthefuck #unfollow #manipulation #mentalhealth #neurodivergent </title>
@@ -259,6 +251,14 @@
     <content>Get ready! I’m thrilled to be featured as a neuroqueer non-binary person on the Rebel Girls Podcast, sharing my story. Catch the full episode next Tuesday! @Kylie the Kynd #Podcast #Empowerment #LiveAuthentically #RebelGirls #DefyExpectations #AuthenticLi</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7408677727324163370"/>
     <published>2024-08-29T21:33:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7409092129890372910</id>
+    <title>#deescalation #funny #parody #media #communication #PhD </title>
+    <updated>2024-08-31T00:21:35+00:00</updated>
+    <content>#deescalation #funny #parody #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7409092129890372910"/>
+    <published>2024-08-31T00:21:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
