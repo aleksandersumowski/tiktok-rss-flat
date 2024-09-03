@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-02T20:09:22+00:00</updated>
+  <updated>2024-09-03T13:57:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7405238190996540718</id>
-    <title>#education #research #tech #media #communication #PhD </title>
-    <updated>2024-08-20T15:06:25+00:00</updated>
-    <content>#education #research #tech #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7405238190996540718"/>
-    <published>2024-08-20T15:06:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7405249282804108587</id>
-    <title>This is my queer agenda #education #mentalhealth #media #communication #PhD </title>
-    <updated>2024-08-20T15:49:28+00:00</updated>
-    <content>This is my queer agenda #education #mentalhealth #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7405249282804108587"/>
-    <published>2024-08-20T15:49:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7405269081064049963</id>
     <title>Hindsight of Twenty/20s #education #mentalhealth #abuse #trauma #survival #identity #healing #lettinggo </title>
@@ -251,6 +235,14 @@
     <content>#greenscreen a big win for autists who’s favorite safe food says it’s required to be microwaved in a little plastic bag that has been poisoning us #education #autisticcreator #health #plastic #glass #fypp </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7410140381385461034"/>
     <published>2024-09-02T20:09:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7410415735605923115</id>
+    <title>Catch a glimpse of my latest interview on the Rebel Girls Podcast on @Kylie at Rebel Girls Podcast’s page! Full episode available now on Spotify and YouTube! #Podcast #Empowerment #education #LiveAuthentically #RebelGirls #DefyExpectations #survival #Auth</title>
+    <updated>2024-09-03T13:57:54+00:00</updated>
+    <content>Catch a glimpse of my latest interview on the Rebel Girls Podcast on @Kylie at Rebel Girls Podcast’s page! Full episode available now on Spotify and YouTube! #Podcast #Empowerment #education #LiveAuthentically #RebelGirls #DefyExpectations #survival #Auth</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7410415735605923115"/>
+    <published>2024-09-03T13:57:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
