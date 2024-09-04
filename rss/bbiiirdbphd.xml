@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-03T18:45:19+00:00</updated>
+  <updated>2024-09-04T17:33:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7405609216808848683</id>
-    <title>#stitch with @Mr. Tik Tok #education #neurodivergent #worldoftshirts #mentalhealth #substanceabuse #violence #media #communication #PhD </title>
-    <updated>2024-08-21T15:06:10+00:00</updated>
-    <content>#stitch with @Mr. Tik Tok #education #neurodivergent #worldoftshirts #mentalhealth #substanceabuse #violence #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7405609216808848683"/>
-    <published>2024-08-21T15:06:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7405624110388120878</id>
     <title>#mentalhealth #healing #iykyk #abuse #trauma #recovery #identity #relationships #fypp</title>
@@ -243,6 +235,14 @@
     <content>#duet with @lachlanfairbairn this video is for educational purposes. #noodles #sickness #thisisntfunny #wearamask </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7410489808025357610"/>
     <published>2024-09-03T18:45:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7410842458361253166</id>
+    <title>#education #loneliness #fypp #criticalmediaecology #media #communication #PhD #art #activism #academia #love #health #sickness #research </title>
+    <updated>2024-09-04T17:33:46+00:00</updated>
+    <content>#education #loneliness #fypp #criticalmediaecology #media #communication #PhD #art #activism #academia #love #health #sickness #research </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7410842458361253166"/>
+    <published>2024-09-04T17:33:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
