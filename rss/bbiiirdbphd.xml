@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-04T23:03:03+00:00</updated>
+  <updated>2024-09-05T18:33:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7405651495003409710</id>
-    <title>Thank you </title>
-    <updated>2024-08-21T17:50:16+00:00</updated>
-    <content>Thank you </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7405651495003409710"/>
-    <published>2024-08-21T17:50:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7405993770791095598</id>
     <title>#mentalhealth #boundaries #neurodivergent #autistic #sensoryissues #sound #loud #autisticcreator #working </title>
@@ -243,6 +235,14 @@
     <content>#fitcheck #scarf #fypp </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7410927318723546410"/>
     <published>2024-09-04T23:03:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7411229055347035438</id>
+    <title>#mentalhealth #survival #encouragement #beproud #forrealtho #praise #fypp </title>
+    <updated>2024-09-05T18:33:59+00:00</updated>
+    <content>#mentalhealth #survival #encouragement #beproud #forrealtho #praise #fypp </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7411229055347035438"/>
+    <published>2024-09-05T18:33:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
