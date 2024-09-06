@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-05T21:21:27+00:00</updated>
+  <updated>2024-09-06T16:02:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7405993770791095598</id>
-    <title>#mentalhealth #boundaries #neurodivergent #autistic #sensoryissues #sound #loud #autisticcreator #working </title>
-    <updated>2024-08-22T15:58:26+00:00</updated>
-    <content>#mentalhealth #boundaries #neurodivergent #autistic #sensoryissues #sound #loud #autisticcreator #working </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7405993770791095598"/>
-    <published>2024-08-22T15:58:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7406161236574113070</id>
     <title>Coca-cola better sponsor me after this </title>
@@ -251,6 +243,14 @@
     <content>#theunitedstates #poison </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7411272231835159850"/>
     <published>2024-09-05T21:21:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7411561121724910890</id>
+    <title>#greenscreen #education #media #communication #PhD #corporation #logics #poison #practices #history #present </title>
+    <updated>2024-09-06T16:02:38+00:00</updated>
+    <content>#greenscreen #education #media #communication #PhD #corporation #logics #poison #practices #history #present </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7411561121724910890"/>
+    <published>2024-09-06T16:02:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
