@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-06T16:02:38+00:00</updated>
+  <updated>2024-09-07T18:26:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7406161236574113070</id>
-    <title>Coca-cola better sponsor me after this </title>
-    <updated>2024-08-23T02:48:15+00:00</updated>
-    <content>Coca-cola better sponsor me after this </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7406161236574113070"/>
-    <published>2024-08-23T02:48:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7406374767814774062</id>
-    <title>#greenscreen Dear To Whom It May Concern, I hope this post finds you well rested. #uap #disclosure #unitedstates #media #communication #PhD #sociology #hireme #aliens </title>
-    <updated>2024-08-23T16:36:52+00:00</updated>
-    <content>#greenscreen Dear To Whom It May Concern, I hope this post finds you well rested. #uap #disclosure #unitedstates #media #communication #PhD #sociology #hireme #aliens </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7406374767814774062"/>
-    <published>2024-08-23T16:36:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7406406504238239022</id>
     <title>Replying to @Dr. Bernadette bird Bowen🐦‍⬛ everyone asked for this </title>
@@ -251,6 +235,14 @@
     <content>#greenscreen #education #media #communication #PhD #corporation #logics #poison #practices #history #present </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7411561121724910890"/>
     <published>2024-09-06T16:02:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7411969351584091435</id>
+    <title>#greenscreen #education #justice #wearamask #fypp #media #communication #PhD </title>
+    <updated>2024-09-07T18:26:41+00:00</updated>
+    <content>#greenscreen #education #justice #wearamask #fypp #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7411969351584091435"/>
+    <published>2024-09-07T18:26:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
