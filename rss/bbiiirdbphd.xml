@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-11T05:24:15+00:00</updated>
+  <updated>2024-09-11T16:49:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7407481977957453102</id>
-    <title>This video is for educational purposes. #education #fypp @ProPublica #PFAS #poison #media #communication #PhD #foreverchemicals #cancer </title>
-    <updated>2024-08-26T16:13:26+00:00</updated>
-    <content>This video is for educational purposes. #education #fypp @ProPublica #PFAS #poison #media #communication #PhD #foreverchemicals #cancer </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7407481977957453102"/>
-    <published>2024-08-26T16:13:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7407502858683272494</id>
     <title>The consequences of this system are everywhere. We can and must massively restructure this system, our self and community concepts, and our way of ASAP aiming for liberation and regeneration or humanity will not survive inevitable inhabitable collapse. #e</title>
@@ -235,6 +227,14 @@
     <content>Explaining the folkowing poem I posted on Twitter that explains both my memoir covers:  “Staying up to date on COVID-19 research has forced me to live in my own abyssal zone. I have been alone in the darkness for so long, I am bioluminescent.  A see-able </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7413252026391432491"/>
     <published>2024-09-11T05:24:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7413428589099601195</id>
+    <title>#trumpisajoke #bop #eat #thecat #sound #trendy </title>
+    <updated>2024-09-11T16:49:22+00:00</updated>
+    <content>#trumpisajoke #bop #eat #thecat #sound #trendy </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7413428589099601195"/>
+    <published>2024-09-11T16:49:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
