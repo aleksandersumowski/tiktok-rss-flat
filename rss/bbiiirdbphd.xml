@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-12T15:43:03+00:00</updated>
+  <updated>2024-09-12T20:09:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7407530650745523498</id>
-    <title>Be honest. #reflection #fypp #mentalhealth #question #media #communication #PhD #relationships #loneliness #society #qualityoflife #hm </title>
-    <updated>2024-08-26T19:22:17+00:00</updated>
-    <content>Be honest. #reflection #fypp #mentalhealth #question #media #communication #PhD #relationships #loneliness #society #qualityoflife #hm </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7407530650745523498"/>
-    <published>2024-08-26T19:22:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7407859549580823851</id>
-    <title>#greenscreenvideo be better than this creator who profits off of framing their hypertelorism (distance between the eyes) and implied intellectual-based ableisms as “jokes”. We cannot tolerate teachers mocking disabled students anywhere. This creator needs</title>
-    <updated>2024-08-27T16:38:34+00:00</updated>
-    <content>#greenscreenvideo be better than this creator who profits off of framing their hypertelorism (distance between the eyes) and implied intellectual-based ableisms as “jokes”. We cannot tolerate teachers mocking disabled students anywhere. This creator needs</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7407859549580823851"/>
-    <published>2024-08-27T16:38:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7407901580252417322</id>
     <title>#adayinmylife #millennial #media #communication #PhD </title>
@@ -235,6 +219,22 @@
     <content>#sickness #lesson #media #communication #PhD #research #health #education </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7413782593797164330"/>
     <published>2024-09-12T15:43:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7413843142329371946</id>
+    <title>Non-binary #fitcheck #eating </title>
+    <updated>2024-09-12T19:37:57+00:00</updated>
+    <content>Non-binary #fitcheck #eating </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7413843142329371946"/>
+    <published>2024-09-12T19:37:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7413851163386203435</id>
+    <title>#greenscreen #romatiktok #kalisara #religion #goddess </title>
+    <updated>2024-09-12T20:09:04+00:00</updated>
+    <content>#greenscreen #romatiktok #kalisara #religion #goddess </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7413851163386203435"/>
+    <published>2024-09-12T20:09:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
