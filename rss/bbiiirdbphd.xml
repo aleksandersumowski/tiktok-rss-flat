@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-11T16:49:22+00:00</updated>
+  <updated>2024-09-12T15:43:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7407502858683272494</id>
-    <title>The consequences of this system are everywhere. We can and must massively restructure this system, our self and community concepts, and our way of ASAP aiming for liberation and regeneration or humanity will not survive inevitable inhabitable collapse. #e</title>
-    <updated>2024-08-26T17:34:30+00:00</updated>
-    <content>The consequences of this system are everywhere. We can and must massively restructure this system, our self and community concepts, and our way of ASAP aiming for liberation and regeneration or humanity will not survive inevitable inhabitable collapse. #e</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7407502858683272494"/>
-    <published>2024-08-26T17:34:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7407530650745523498</id>
     <title>Be honest. #reflection #fypp #mentalhealth #question #media #communication #PhD #relationships #loneliness #society #qualityoflife #hm </title>
@@ -235,6 +227,14 @@
     <content>#trumpisajoke #bop #eat #thecat #sound #trendy </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7413428589099601195"/>
     <published>2024-09-11T16:49:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7413782593797164330</id>
+    <title>#sickness #lesson #media #communication #PhD #research #health #education </title>
+    <updated>2024-09-12T15:43:03+00:00</updated>
+    <content>#sickness #lesson #media #communication #PhD #research #health #education </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7413782593797164330"/>
+    <published>2024-09-12T15:43:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
