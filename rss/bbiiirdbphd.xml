@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-12T20:09:04+00:00</updated>
+  <updated>2024-09-13T20:13:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7407901580252417322</id>
-    <title>#adayinmylife #millennial #media #communication #PhD </title>
-    <updated>2024-08-27T19:21:41+00:00</updated>
-    <content>#adayinmylife #millennial #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7407901580252417322"/>
-    <published>2024-08-27T19:21:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7408306472393919790</id>
-    <title>#mentalhealth #therapist #research #sick #disability #media #communication #PhD #rage #resistence #fuckthat </title>
-    <updated>2024-08-28T21:32:52+00:00</updated>
-    <content>#mentalhealth #therapist #research #sick #disability #media #communication #PhD #rage #resistence #fuckthat </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7408306472393919790"/>
-    <published>2024-08-28T21:32:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7408590137640176938</id>
     <title>#education #logics #practice #media #communication #PhD #plastic #research #poison #colonial #capitalism #fypp #humor #parody #resistance </title>
@@ -235,6 +219,38 @@
     <content>#greenscreen #romatiktok #kalisara #religion #goddess </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7413851163386203435"/>
     <published>2024-09-12T20:09:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7414164431220854059</id>
+    <title>I have only grown stronger 🎤🐦‍⬛ #education #health #fypp #media #communication #PhD #strength #mentalhealth #true </title>
+    <updated>2024-09-13T16:24:43+00:00</updated>
+    <content>I have only grown stronger 🎤🐦‍⬛ #education #health #fypp #media #communication #PhD #strength #mentalhealth #true </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7414164431220854059"/>
+    <published>2024-09-13T16:24:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7414184072207027502</id>
+    <title>#duet with @tommythelawyer #fyp #education #PFAS #water </title>
+    <updated>2024-09-13T17:40:59+00:00</updated>
+    <content>#duet with @tommythelawyer #fyp #education #PFAS #water </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7414184072207027502"/>
+    <published>2024-09-13T17:40:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7414212025657642283</id>
+    <title>#videogames #fitcheck #mage #funny </title>
+    <updated>2024-09-13T19:29:26+00:00</updated>
+    <content>#videogames #fitcheck #mage #funny </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7414212025657642283"/>
+    <published>2024-09-13T19:29:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7414223325204991274</id>
+    <title>#education #covid #birdflu #listeria #salmonella #food #media #communication #PhD </title>
+    <updated>2024-09-13T20:13:17+00:00</updated>
+    <content>#education #covid #birdflu #listeria #salmonella #food #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7414223325204991274"/>
+    <published>2024-09-13T20:13:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
