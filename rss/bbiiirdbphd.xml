@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-13T20:13:17+00:00</updated>
+  <updated>2024-09-13T21:27:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7408590137640176938</id>
-    <title>#education #logics #practice #media #communication #PhD #plastic #research #poison #colonial #capitalism #fypp #humor #parody #resistance </title>
-    <updated>2024-08-29T15:53:37+00:00</updated>
-    <content>#education #logics #practice #media #communication #PhD #plastic #research #poison #colonial #capitalism #fypp #humor #parody #resistance </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7408590137640176938"/>
-    <published>2024-08-29T15:53:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7408597740776721707</id>
     <title>#greenscreen #autistic #tim #education #eugenics #media #communication #PhD #walz </title>
@@ -251,6 +243,14 @@
     <content>#education #covid #birdflu #listeria #salmonella #food #media #communication #PhD </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7414223325204991274"/>
     <published>2024-09-13T20:13:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7414242360080502059</id>
+    <title>#grieving #insideout2 #sob #mentalhealth #grateful #fypp </title>
+    <updated>2024-09-13T21:27:07+00:00</updated>
+    <content>#grieving #insideout2 #sob #mentalhealth #grateful #fypp </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7414242360080502059"/>
+    <published>2024-09-13T21:27:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
