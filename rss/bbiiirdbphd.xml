@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-13T21:27:07+00:00</updated>
+  <updated>2024-09-14T02:11:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7408597740776721707</id>
-    <title>#greenscreen #autistic #tim #education #eugenics #media #communication #PhD #walz </title>
-    <updated>2024-08-29T16:23:08+00:00</updated>
-    <content>#greenscreen #autistic #tim #education #eugenics #media #communication #PhD #walz </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7408597740776721707"/>
-    <published>2024-08-29T16:23:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7408617755743898926</id>
-    <title>#greenscreen #education #media #communication #PhD #plastic #PFAS #poison #fypp </title>
-    <updated>2024-08-29T17:40:48+00:00</updated>
-    <content>#greenscreen #education #media #communication #PhD #plastic #PFAS #poison #fypp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7408617755743898926"/>
-    <published>2024-08-29T17:40:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7408677727324163370</id>
     <title>Get ready! I’m thrilled to be featured as a neuroqueer non-binary person on the Rebel Girls Podcast, sharing my story. Catch the full episode next Tuesday! @Kylie the Kynd #Podcast #Empowerment #LiveAuthentically #RebelGirls #DefyExpectations #AuthenticLi</title>
@@ -251,6 +235,22 @@
     <content>#grieving #insideout2 #sob #mentalhealth #grateful #fypp </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7414242360080502059"/>
     <published>2024-09-13T21:27:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7414302987146759467</id>
+    <title>Watch it. Then read or listen to my memoirs (read by me) about my eeriely similar, but different, experience. #autistic #media #millennial #dinnerinamerica #punkkid #communication #PhD #representation #autist </title>
+    <updated>2024-09-14T01:22:22+00:00</updated>
+    <content>Watch it. Then read or listen to my memoirs (read by me) about my eeriely similar, but different, experience. #autistic #media #millennial #dinnerinamerica #punkkid #communication #PhD #representation #autist </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7414302987146759467"/>
+    <published>2024-09-14T01:22:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7414315648626478382</id>
+    <title>#autistic #media #film #critical #dinnerinamerica #millennial #1990s #2000s #periodpiece #media #communication #PhD </title>
+    <updated>2024-09-14T02:11:30+00:00</updated>
+    <content>#autistic #media #film #critical #dinnerinamerica #millennial #1990s #2000s #periodpiece #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7414315648626478382"/>
+    <published>2024-09-14T02:11:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
