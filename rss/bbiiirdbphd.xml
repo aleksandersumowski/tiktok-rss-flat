@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-15T18:24:04+00:00</updated>
+  <updated>2024-09-16T00:16:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7410119532871683374</id>
-    <title>#greenscreen #education #health #agriculture #listeria #boarshead #contamination #deregulation #meat #dairy #neoliberalism #corporate #democrats #republicans #newdeal #freedomtofarm </title>
-    <updated>2024-09-02T18:48:25+00:00</updated>
-    <content>#greenscreen #education #health #agriculture #listeria #boarshead #contamination #deregulation #meat #dairy #neoliberalism #corporate #democrats #republicans #newdeal #freedomtofarm </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7410119532871683374"/>
-    <published>2024-09-02T18:48:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7410140381385461034</id>
     <title>#greenscreen a big win for autists who’s favorite safe food says it’s required to be microwaved in a little plastic bag that has been poisoning us #education #autisticcreator #health #plastic #glass #fypp </title>
@@ -235,6 +227,14 @@
     <content>All at the same time, this colonial capitalist system dehumanizes the most of us. It makes canonical claims to rob / devastate our lives and the earth, exploiting / militarizing us to death, setting varying levels of disenfranchised discomfort as the carc</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7414937358711131434"/>
     <published>2024-09-15T18:24:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7415028162578369838</id>
+    <title>#dinnerinamerica #millennial #mentalhealth #autisticadult #bullying #abuse #movie #welcometothedollhouse </title>
+    <updated>2024-09-16T00:16:24+00:00</updated>
+    <content>#dinnerinamerica #millennial #mentalhealth #autisticadult #bullying #abuse #movie #welcometothedollhouse </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7415028162578369838"/>
+    <published>2024-09-16T00:16:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
