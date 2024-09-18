@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-18T15:42:41+00:00</updated>
+  <updated>2024-09-18T19:02:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7410486595641511210</id>
-    <title>#happyhalloween #witchtok #propaganda #90snick #areyouafraidofthedark #millennial #funny #nostalgia </title>
-    <updated>2024-09-03T18:32:50+00:00</updated>
-    <content>#happyhalloween #witchtok #propaganda #90snick #areyouafraidofthedark #millennial #funny #nostalgia </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7410486595641511210"/>
-    <published>2024-09-03T18:32:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7410489808025357610</id>
     <title>#duet with @lachlanfairbairn this video is for educational purposes. #noodles #sickness #thisisntfunny #wearamask </title>
@@ -235,6 +227,14 @@
     <content>I don’t need anyone saying some other obvious shit in the chat. Ty 🌻🐦‍⬛ #greenscreen #education #abuse #sickness #loneliness #media #communication #PhD </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7416009020143783214"/>
     <published>2024-09-18T15:42:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7416060448275123502</id>
+    <title>#greenscreen #education #lebanon #worldnews #fypp #pagers #walkietalkie #terror #media #communication #PhD</title>
+    <updated>2024-09-18T19:02:14+00:00</updated>
+    <content>#greenscreen #education #lebanon #worldnews #fypp #pagers #walkietalkie #terror #media #communication #PhD</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7416060448275123502"/>
+    <published>2024-09-18T19:02:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
