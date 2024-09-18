@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-16T00:16:24+00:00</updated>
+  <updated>2024-09-18T15:42:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7410415735605923115</id>
-    <title>Catch a glimpse of my latest interview on the Rebel Girls Podcast on @Kylie at Rebel Girls Podcast’s page! Full episode available now on Spotify and YouTube! #Podcast #Empowerment #education #LiveAuthentically #RebelGirls #DefyExpectations #survival #Auth</title>
-    <updated>2024-09-03T13:57:54+00:00</updated>
-    <content>Catch a glimpse of my latest interview on the Rebel Girls Podcast on @Kylie at Rebel Girls Podcast’s page! Full episode available now on Spotify and YouTube! #Podcast #Empowerment #education #LiveAuthentically #RebelGirls #DefyExpectations #survival #Auth</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7410415735605923115"/>
-    <published>2024-09-03T13:57:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7410486595641511210</id>
     <title>#happyhalloween #witchtok #propaganda #90snick #areyouafraidofthedark #millennial #funny #nostalgia </title>
@@ -227,6 +219,22 @@
     <content>#dinnerinamerica #millennial #mentalhealth #autisticadult #bullying #abuse #movie #welcometothedollhouse </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7415028162578369838"/>
     <published>2024-09-16T00:16:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7416005186138950958</id>
+    <title>#duet with @Iniko #vibes </title>
+    <updated>2024-09-18T15:27:49+00:00</updated>
+    <content>#duet with @Iniko #vibes </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7416005186138950958"/>
+    <published>2024-09-18T15:27:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7416009020143783214</id>
+    <title>I don’t need anyone saying some other obvious shit in the chat. Ty 🌻🐦‍⬛ #greenscreen #education #abuse #sickness #loneliness #media #communication #PhD </title>
+    <updated>2024-09-18T15:42:41+00:00</updated>
+    <content>I don’t need anyone saying some other obvious shit in the chat. Ty 🌻🐦‍⬛ #greenscreen #education #abuse #sickness #loneliness #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7416009020143783214"/>
+    <published>2024-09-18T15:42:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
