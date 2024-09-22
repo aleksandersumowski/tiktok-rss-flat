@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-21T17:58:54+00:00</updated>
+  <updated>2024-09-22T19:38:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7411969351584091435</id>
-    <title>#greenscreen #education #justice #wearamask #fypp #media #communication #PhD </title>
-    <updated>2024-09-07T18:26:41+00:00</updated>
-    <content>#greenscreen #education #justice #wearamask #fypp #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7411969351584091435"/>
-    <published>2024-09-07T18:26:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7412694468190702894</id>
     <title>#greenscreen Only time will tell if that advancement pans out to actually help end this 🐼🤧, alongside the recent fibrin finding. This post isn’t about that first claim. It’s me expanding upon the second part I said because this is my speciality as a resea</title>
@@ -219,6 +211,22 @@
     <content>#loner #lonewolf #solitude </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7417157385883503918"/>
     <published>2024-09-21T17:58:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7417546888464862507</id>
+    <title>Do any other groups participate in “safe foods”? #question #autisticadult #autisticcreator </title>
+    <updated>2024-09-22T19:10:21+00:00</updated>
+    <content>Do any other groups participate in “safe foods”? #question #autisticadult #autisticcreator </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7417546888464862507"/>
+    <published>2024-09-22T19:10:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7417554062154960171</id>
+    <title>This video is for educational purposes. #greenscreen #education #whiteness #assimilation #eugenics #race #ethnicity #media #communication #PhD </title>
+    <updated>2024-09-22T19:38:11+00:00</updated>
+    <content>This video is for educational purposes. #greenscreen #education #whiteness #assimilation #eugenics #race #ethnicity #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7417554062154960171"/>
+    <published>2024-09-22T19:38:11+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
