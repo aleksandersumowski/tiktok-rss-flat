@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-24T00:45:14+00:00</updated>
+  <updated>2024-09-24T14:45:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7413095028475661611</id>
-    <title>#greenscreen This video is for educational purposes. I have a PhD in media &amp; communication, am an expert in identities, relationships, and technologies, as well as wrote an entire dissertation and two memoirs about this exact phenomena. #education #france</title>
-    <updated>2024-09-10T19:14:55+00:00</updated>
-    <content>#greenscreen This video is for educational purposes. I have a PhD in media &amp; communication, am an expert in identities, relationships, and technologies, as well as wrote an entire dissertation and two memoirs about this exact phenomena. #education #france</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7413095028475661611"/>
-    <published>2024-09-10T19:14:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7413252026391432491</id>
     <title>Explaining the folkowing poem I posted on Twitter that explains both my memoir covers:  “Staying up to date on COVID-19 research has forced me to live in my own abyssal zone. I have been alone in the darkness for so long, I am bioluminescent.  A see-able </title>
@@ -227,6 +219,14 @@
     <content>#education #mentalhealth #poem #poetry #nonbinary #neuroqueer #healing #life </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7418004269007179051"/>
     <published>2024-09-24T00:45:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7418220758352022830</id>
+    <title>DooooOooOoooooOoo</title>
+    <updated>2024-09-24T14:45:21+00:00</updated>
+    <content>DooooOooOoooooOoo</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7418220758352022830"/>
+    <published>2024-09-24T14:45:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
