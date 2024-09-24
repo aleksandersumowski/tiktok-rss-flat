@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-23T19:46:16+00:00</updated>
+  <updated>2024-09-24T00:45:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7413052176404172074</id>
-    <title>#duet with @Kata #originalsong #beautiful #tragic #poetry #song #fypp </title>
-    <updated>2024-09-10T16:28:40+00:00</updated>
-    <content>#duet with @Kata #originalsong #beautiful #tragic #poetry #song #fypp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7413052176404172074"/>
-    <published>2024-09-10T16:28:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7413095028475661611</id>
     <title>#greenscreen This video is for educational purposes. I have a PhD in media &amp; communication, am an expert in identities, relationships, and technologies, as well as wrote an entire dissertation and two memoirs about this exact phenomena. #education #france</title>
@@ -227,6 +219,14 @@
     <content>#stitch with @Kristy Robinett I want to know if the show is entirely made up Christoganda, or if you stand by what you said without promoting it now /gen #education #paranormal #tv #media #communication #PhD </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7417927221710523694"/>
     <published>2024-09-23T19:46:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7418004269007179051</id>
+    <title>#education #mentalhealth #poem #poetry #nonbinary #neuroqueer #healing #life </title>
+    <updated>2024-09-24T00:45:14+00:00</updated>
+    <content>#education #mentalhealth #poem #poetry #nonbinary #neuroqueer #healing #life </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7418004269007179051"/>
+    <published>2024-09-24T00:45:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
