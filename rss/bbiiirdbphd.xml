@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-24T14:45:21+00:00</updated>
+  <updated>2024-09-25T02:22:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7413252026391432491</id>
-    <title>Explaining the folkowing poem I posted on Twitter that explains both my memoir covers:  “Staying up to date on COVID-19 research has forced me to live in my own abyssal zone. I have been alone in the darkness for so long, I am bioluminescent.  A see-able </title>
-    <updated>2024-09-11T05:24:15+00:00</updated>
-    <content>Explaining the folkowing poem I posted on Twitter that explains both my memoir covers:  “Staying up to date on COVID-19 research has forced me to live in my own abyssal zone. I have been alone in the darkness for so long, I am bioluminescent.  A see-able </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7413252026391432491"/>
-    <published>2024-09-11T05:24:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7413782593797164330</id>
     <title>#sickness #lesson #media #communication #PhD #research #health #education </title>
@@ -227,6 +219,14 @@
     <content>DooooOooOoooooOoo</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7418220758352022830"/>
     <published>2024-09-24T14:45:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7418400391383092523</id>
+    <title>#education #health #ohio #train #toxic #leak #styrene #media #communication #PhD </title>
+    <updated>2024-09-25T02:22:23+00:00</updated>
+    <content>#education #health #ohio #train #toxic #leak #styrene #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7418400391383092523"/>
+    <published>2024-09-25T02:22:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
