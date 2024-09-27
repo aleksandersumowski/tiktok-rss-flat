@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-27T16:11:52+00:00</updated>
+  <updated>2024-09-27T18:20:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7414242360080502059</id>
-    <title>#grieving #insideout2 #sob #mentalhealth #grateful #fypp </title>
-    <updated>2024-09-13T21:27:07+00:00</updated>
-    <content>#grieving #insideout2 #sob #mentalhealth #grateful #fypp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7414242360080502059"/>
-    <published>2024-09-13T21:27:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7414302987146759467</id>
-    <title>Watch it. Then read or listen to my memoirs (read by me) about my eeriely similar, but different, experience. #autistic #media #millennial #dinnerinamerica #punkkid #communication #PhD #representation #autist </title>
-    <updated>2024-09-14T01:22:22+00:00</updated>
-    <content>Watch it. Then read or listen to my memoirs (read by me) about my eeriely similar, but different, experience. #autistic #media #millennial #dinnerinamerica #punkkid #communication #PhD #representation #autist </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7414302987146759467"/>
-    <published>2024-09-14T01:22:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7414315648626478382</id>
     <title>#autistic #media #film #critical #dinnerinamerica #millennial #1990s #2000s #periodpiece #media #communication #PhD </title>
@@ -235,6 +219,14 @@
     <content>This is the life I was born into and I’m living it out Goddess damnit #education #life #iykyk #media #communication #PhD #mentalhealth #knowledge </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7419356314767281450"/>
     <published>2024-09-27T16:11:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7419389488234974510</id>
+    <title>This system is haunting us #education #paranormal #media #communication #PhD </title>
+    <updated>2024-09-27T18:20:35+00:00</updated>
+    <content>This system is haunting us #education #paranormal #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7419389488234974510"/>
+    <published>2024-09-27T18:20:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
