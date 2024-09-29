@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-09-28T01:32:30+00:00</updated>
+  <updated>2024-09-29T17:08:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7414572401490431274</id>
-    <title>Don’t do it. Don’t cave. Unless you want to, I guess. Don’t let me tell you how to live your life. #90stv #millennial #nostalgia #paramountplus #gateway </title>
-    <updated>2024-09-14T18:47:50+00:00</updated>
-    <content>Don’t do it. Don’t cave. Unless you want to, I guess. Don’t let me tell you how to live your life. #90stv #millennial #nostalgia #paramountplus #gateway </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7414572401490431274"/>
-    <published>2024-09-14T18:47:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7414587506521427243</id>
     <title>¯\_(ツ)_/¯ another day another opportunist capitalizing on the trauma of autistic coded lived experience for a sound trend #autistic #manicpixiedreamgirl #patty #dinnerinamerica #fyp </title>
@@ -227,6 +219,14 @@
     <content>#apple #update #funny #parody #ai #relationships </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7419500801422380334"/>
     <published>2024-09-28T01:32:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7420113174512373034</id>
+    <title>Every single creator cannot be a messenger of every message. Revolution happens in the mind before it manifests physically.  We all need to care for ourselves and others as devastations continue to unfold, utilizing what we have to build a world we all de</title>
+    <updated>2024-09-29T17:08:52+00:00</updated>
+    <content>Every single creator cannot be a messenger of every message. Revolution happens in the mind before it manifests physically.  We all need to care for ourselves and others as devastations continue to unfold, utilizing what we have to build a world we all de</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7420113174512373034"/>
+    <published>2024-09-29T17:08:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
