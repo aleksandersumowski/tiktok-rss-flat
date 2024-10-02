@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-02T15:34:51+00:00</updated>
+  <updated>2024-10-02T16:40:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7416161034869771563</id>
-    <title>Foot Size Big #funny #haunted #bigfoot #tvshow #thewoods </title>
-    <updated>2024-09-19T01:32:32+00:00</updated>
-    <content>Foot Size Big #funny #haunted #bigfoot #tvshow #thewoods </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7416161034869771563"/>
-    <published>2024-09-19T01:32:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7417138550715452718</id>
     <title>My short poem I, Rose 🌹🐦‍⬛ #education #mentalhealth #abuse #healing #survival #inspiration #motivation #poem #poet #poetry #fypp </title>
@@ -235,6 +227,14 @@
     <content>#greenscreen #education #dock #worker #workersrights #tweets #strike #language #media #communication #PhD </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7421202188283710766"/>
     <published>2024-10-02T15:34:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7421219169900825898</id>
+    <title>#barbarian #critical #media #media #communication #PhD </title>
+    <updated>2024-10-02T16:40:43+00:00</updated>
+    <content>#barbarian #critical #media #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7421219169900825898"/>
+    <published>2024-10-02T16:40:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
