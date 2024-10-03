@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-02T16:40:43+00:00</updated>
+  <updated>2024-10-03T00:56:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7417138550715452718</id>
-    <title>My short poem I, Rose 🌹🐦‍⬛ #education #mentalhealth #abuse #healing #survival #inspiration #motivation #poem #poet #poetry #fypp </title>
-    <updated>2024-09-21T16:45:49+00:00</updated>
-    <content>My short poem I, Rose 🌹🐦‍⬛ #education #mentalhealth #abuse #healing #survival #inspiration #motivation #poem #poet #poetry #fypp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7417138550715452718"/>
-    <published>2024-09-21T16:45:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7417145914487311662</id>
-    <title>#onthisday #queer #present #history #nonbinary #roma </title>
-    <updated>2024-09-21T17:14:35+00:00</updated>
-    <content>#onthisday #queer #present #history #nonbinary #roma </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7417145914487311662"/>
-    <published>2024-09-21T17:14:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7417157385883503918</id>
     <title>#loner #lonewolf #solitude </title>
@@ -235,6 +219,22 @@
     <content>#barbarian #critical #media #media #communication #PhD </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7421219169900825898"/>
     <published>2024-10-02T16:40:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7421343458461240618</id>
+    <title>#greenscreen #barbarian #poem #poet #violence #media #communication #PhD </title>
+    <updated>2024-10-03T00:42:59+00:00</updated>
+    <content>#greenscreen #barbarian #poem #poet #violence #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7421343458461240618"/>
+    <published>2024-10-03T00:42:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7421346948520611118</id>
+    <title>#education #iykyk #norms #media #communication #PhD</title>
+    <updated>2024-10-03T00:56:30+00:00</updated>
+    <content>#education #iykyk #norms #media #communication #PhD</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7421346948520611118"/>
+    <published>2024-10-03T00:56:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
