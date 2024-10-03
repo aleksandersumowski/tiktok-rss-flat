@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-03T00:56:30+00:00</updated>
+  <updated>2024-10-03T15:13:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7417157385883503918</id>
-    <title>#loner #lonewolf #solitude </title>
-    <updated>2024-09-21T17:58:54+00:00</updated>
-    <content>#loner #lonewolf #solitude </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7417157385883503918"/>
-    <published>2024-09-21T17:58:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7417546888464862507</id>
     <title>Do any other groups participate in “safe foods”? #question #autisticadult #autisticcreator </title>
@@ -235,6 +227,14 @@
     <content>#education #iykyk #norms #media #communication #PhD</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7421346948520611118"/>
     <published>2024-10-03T00:56:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7421567674863389994</id>
+    <title>Capiche? #msg4u </title>
+    <updated>2024-10-03T15:13:05+00:00</updated>
+    <content>Capiche? #msg4u </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7421567674863389994"/>
+    <published>2024-10-03T15:13:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
