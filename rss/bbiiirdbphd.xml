@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-03T15:13:05+00:00</updated>
+  <updated>2024-10-04T03:17:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7417554062154960171</id>
-    <title>This video is for educational purposes. #greenscreen #education #whiteness #assimilation #eugenics #race #ethnicity #media #communication #PhD </title>
-    <updated>2024-09-22T19:38:11+00:00</updated>
-    <content>This video is for educational purposes. #greenscreen #education #whiteness #assimilation #eugenics #race #ethnicity #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7417554062154960171"/>
-    <published>2024-09-22T19:38:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7417927221710523694</id>
-    <title>#stitch with @Kristy Robinett I want to know if the show is entirely made up Christoganda, or if you stand by what you said without promoting it now /gen #education #paranormal #tv #media #communication #PhD </title>
-    <updated>2024-09-23T19:46:16+00:00</updated>
-    <content>#stitch with @Kristy Robinett I want to know if the show is entirely made up Christoganda, or if you stand by what you said without promoting it now /gen #education #paranormal #tv #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7417927221710523694"/>
-    <published>2024-09-23T19:46:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7418004269007179051</id>
     <title>#education #mentalhealth #poem #poetry #nonbinary #neuroqueer #healing #life </title>
@@ -227,6 +211,14 @@
     <content>Capiche? #msg4u </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7421567674863389994"/>
     <published>2024-10-03T15:13:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7421754400634473774</id>
+    <title>No Title</title>
+    <updated>2024-10-04T03:17:39+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7421754400634473774"/>
+    <published>2024-10-04T03:17:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
