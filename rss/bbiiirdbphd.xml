@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-04T04:31:49+00:00</updated>
+  <updated>2024-10-05T00:21:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7418004269007179051</id>
-    <title>#education #mentalhealth #poem #poetry #nonbinary #neuroqueer #healing #life </title>
-    <updated>2024-09-24T00:45:14+00:00</updated>
-    <content>#education #mentalhealth #poem #poetry #nonbinary #neuroqueer #healing #life </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7418004269007179051"/>
-    <published>2024-09-24T00:45:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7418220758352022830</id>
     <title>DooooOooOoooooOoo</title>
@@ -219,6 +211,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7421773504321752366"/>
     <published>2024-10-04T04:31:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7422080052608765226</id>
+    <title>#stimmingpositivity #tism #mentalhealth #authenticity </title>
+    <updated>2024-10-05T00:21:20+00:00</updated>
+    <content>#stimmingpositivity #tism #mentalhealth #authenticity </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7422080052608765226"/>
+    <published>2024-10-05T00:21:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
