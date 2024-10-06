@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-05T02:03:06+00:00</updated>
+  <updated>2024-10-05T22:23:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7418220758352022830</id>
-    <title>DooooOooOoooooOoo</title>
-    <updated>2024-09-24T14:45:21+00:00</updated>
-    <content>DooooOooOoooooOoo</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7418220758352022830"/>
-    <published>2024-09-24T14:45:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7418400391383092523</id>
     <title>#education #health #ohio #train #toxic #leak #styrene #media #communication #PhD </title>
@@ -227,6 +219,22 @@
     <content>#bear #man #survival #PhD </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7422106277834263851"/>
     <published>2024-10-05T02:03:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7422404593889430826</id>
+    <title>#democrats #republicans  #song #sound #unitedstates </title>
+    <updated>2024-10-05T21:20:44+00:00</updated>
+    <content>#democrats #republicans  #song #sound #unitedstates </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7422404593889430826"/>
+    <published>2024-10-05T21:20:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7422420878429900074</id>
+    <title>“Neuroqueer Self-Realizations in the Algorithmic Envirusment” #education #punkkid #fypp #media #communication #PhD #inspiration #autism #memoir </title>
+    <updated>2024-10-05T22:23:56+00:00</updated>
+    <content>“Neuroqueer Self-Realizations in the Algorithmic Envirusment” #education #punkkid #fypp #media #communication #PhD #inspiration #autism #memoir </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7422420878429900074"/>
+    <published>2024-10-05T22:23:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
