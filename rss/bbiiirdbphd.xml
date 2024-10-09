@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-08T22:14:03+00:00</updated>
+  <updated>2024-10-09T20:07:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7419329238991473962</id>
-    <title>#duet with @Mystic Manjari #vedicastrology This Part. #property #delusion #denial </title>
-    <updated>2024-09-27T14:26:48+00:00</updated>
-    <content>#duet with @Mystic Manjari #vedicastrology This Part. #property #delusion #denial </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7419329238991473962"/>
-    <published>2024-09-27T14:26:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7419349145866997034</id>
     <title>#greenscreen this is abysmal. This behavior is not normal. It is not acceptable or humane to capitalize on climate crises. #opportunist #flood #florida #property #hurricane #helene </title>
@@ -235,6 +227,22 @@
     <content>#fitcheck </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7423531583682137390"/>
     <published>2024-10-08T22:14:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7423830698890399019</id>
+    <title>Consider this 🌻🐦‍⬛ #greenscreen #education #hurricane #florida #sewage #sandiego #environment #media #communication #PhD #envirusment #socialchange </title>
+    <updated>2024-10-09T17:34:47+00:00</updated>
+    <content>Consider this 🌻🐦‍⬛ #greenscreen #education #hurricane #florida #sewage #sandiego #environment #media #communication #PhD #envirusment #socialchange </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7423830698890399019"/>
+    <published>2024-10-09T17:34:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7423870144964775211</id>
+    <title>We all deserve better 🌻🐦‍⬛🌞❤️‍🩹💙💛 #education #democrats #media #communication #PhD #influencers #campaign </title>
+    <updated>2024-10-09T20:07:50+00:00</updated>
+    <content>We all deserve better 🌻🐦‍⬛🌞❤️‍🩹💙💛 #education #democrats #media #communication #PhD #influencers #campaign </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7423870144964775211"/>
+    <published>2024-10-09T20:07:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
