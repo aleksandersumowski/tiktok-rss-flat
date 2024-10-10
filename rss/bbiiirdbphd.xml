@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-09T20:07:50+00:00</updated>
+  <updated>2024-10-09T21:46:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7419349145866997034</id>
-    <title>#greenscreen this is abysmal. This behavior is not normal. It is not acceptable or humane to capitalize on climate crises. #opportunist #flood #florida #property #hurricane #helene </title>
-    <updated>2024-09-27T15:44:02+00:00</updated>
-    <content>#greenscreen this is abysmal. This behavior is not normal. It is not acceptable or humane to capitalize on climate crises. #opportunist #flood #florida #property #hurricane #helene </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7419349145866997034"/>
-    <published>2024-09-27T15:44:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7419356314767281450</id>
-    <title>This is the life I was born into and I’m living it out Goddess damnit #education #life #iykyk #media #communication #PhD #mentalhealth #knowledge </title>
-    <updated>2024-09-27T16:11:52+00:00</updated>
-    <content>This is the life I was born into and I’m living it out Goddess damnit #education #life #iykyk #media #communication #PhD #mentalhealth #knowledge </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7419356314767281450"/>
-    <published>2024-09-27T16:11:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7419389488234974510</id>
     <title>This system is haunting us #education #paranormal #media #communication #PhD </title>
@@ -243,6 +227,22 @@
     <content>We all deserve better 🌻🐦‍⬛🌞❤️‍🩹💙💛 #education #democrats #media #communication #PhD #influencers #campaign </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7423870144964775211"/>
     <published>2024-10-09T20:07:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7423882092330716462</id>
+    <title>And it doesn’t need to be this way. We have time to change it. Don’t lose hope. #education #hurricane #flood #media #communication #PhD #sewage #trash #garbage #weaponizedincompentence </title>
+    <updated>2024-10-09T20:54:11+00:00</updated>
+    <content>And it doesn’t need to be this way. We have time to change it. Don’t lose hope. #education #hurricane #flood #media #communication #PhD #sewage #trash #garbage #weaponizedincompentence </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7423882092330716462"/>
+    <published>2024-10-09T20:54:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7423895464593952042</id>
+    <title>#peeping #bear #men #media #communication #PhD #iykyk #storytime #education #fyp </title>
+    <updated>2024-10-09T21:46:05+00:00</updated>
+    <content>#peeping #bear #men #media #communication #PhD #iykyk #storytime #education #fyp </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7423895464593952042"/>
+    <published>2024-10-09T21:46:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
