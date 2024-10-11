@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-09T21:46:05+00:00</updated>
+  <updated>2024-10-10T22:58:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7419389488234974510</id>
-    <title>This system is haunting us #education #paranormal #media #communication #PhD </title>
-    <updated>2024-09-27T18:20:35+00:00</updated>
-    <content>This system is haunting us #education #paranormal #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7419389488234974510"/>
-    <published>2024-09-27T18:20:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7419500801422380334</id>
     <title>#apple #update #funny #parody #ai #relationships </title>
@@ -243,6 +235,22 @@
     <content>#peeping #bear #men #media #communication #PhD #iykyk #storytime #education #fyp </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7423895464593952042"/>
     <published>2024-10-09T21:46:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7424261208712285483</id>
+    <title>#education #hurricane #fyp #florida #evacuation #media #communication #PhD #iykyk </title>
+    <updated>2024-10-10T21:25:20+00:00</updated>
+    <content>#education #hurricane #fyp #florida #evacuation #media #communication #PhD #iykyk </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7424261208712285483"/>
+    <published>2024-10-10T21:25:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7424285320738311466</id>
+    <title>#education #mentalhealth #emotions #grief #sadness </title>
+    <updated>2024-10-10T22:58:54+00:00</updated>
+    <content>#education #mentalhealth #emotions #grief #sadness </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7424285320738311466"/>
+    <published>2024-10-10T22:58:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
