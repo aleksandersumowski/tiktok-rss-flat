@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-10T22:58:54+00:00</updated>
+  <updated>2024-10-11T16:11:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7419500801422380334</id>
-    <title>#apple #update #funny #parody #ai #relationships </title>
-    <updated>2024-09-28T01:32:30+00:00</updated>
-    <content>#apple #update #funny #parody #ai #relationships </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7419500801422380334"/>
-    <published>2024-09-28T01:32:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7420113174512373034</id>
     <title>Every single creator cannot be a messenger of every message. Revolution happens in the mind before it manifests physically.  We all need to care for ourselves and others as devastations continue to unfold, utilizing what we have to build a world we all de</title>
@@ -251,6 +243,14 @@
     <content>#education #mentalhealth #emotions #grief #sadness </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7424285320738311466"/>
     <published>2024-10-10T22:58:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7424551493841341742</id>
+    <title>#welp #sound #morals </title>
+    <updated>2024-10-11T16:11:50+00:00</updated>
+    <content>#welp #sound #morals </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7424551493841341742"/>
+    <published>2024-10-11T16:11:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
