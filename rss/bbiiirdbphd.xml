@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-11T18:57:45+00:00</updated>
+  <updated>2024-10-12T17:48:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7420472882599333166</id>
-    <title>#duet with @Daniel McKeown #education #academia #wage #workersrights #exploitation #highereducation #PhD #fuck </title>
-    <updated>2024-09-30T16:24:46+00:00</updated>
-    <content>#duet with @Daniel McKeown #education #academia #wage #workersrights #exploitation #highereducation #PhD #fuck </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7420472882599333166"/>
-    <published>2024-09-30T16:24:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7420529852975189294</id>
     <title>#greenscreen #education #chlorinegas #atlanta #fire #health #safety #humanity </title>
@@ -251,6 +243,14 @@
     <content>Three things 🌻🐦‍⬛🗣️❤️‍🩹💙💛 #education #mentalhealth #survival #love #attraction #media #communication #PhD </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7424594248772717867"/>
     <published>2024-10-11T18:57:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7424947609493589291</id>
+    <title>#greenscreen #education #fyp #language #discrimination #media #communication #PhD #relationships #millennial #life</title>
+    <updated>2024-10-12T17:48:56+00:00</updated>
+    <content>#greenscreen #education #fyp #language #discrimination #media #communication #PhD #relationships #millennial #life</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7424947609493589291"/>
+    <published>2024-10-12T17:48:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
