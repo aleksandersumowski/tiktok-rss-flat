@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-18T16:12:49+00:00</updated>
+  <updated>2024-10-18T18:44:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7421773504321752366</id>
-    <title>No Title</title>
-    <updated>2024-10-04T04:31:49+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7421773504321752366"/>
-    <published>2024-10-04T04:31:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7422080052608765226</id>
     <title>#stimmingpositivity #tism #mentalhealth #authenticity </title>
@@ -251,6 +243,14 @@
     <content>#greenscreen #education #democrats #republicans #media #communication #PhD #research #violence #normal</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7427149340415741230"/>
     <published>2024-10-18T16:12:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7427188334952287531</id>
+    <title>#greenscreen good day, sir.</title>
+    <updated>2024-10-18T18:44:08+00:00</updated>
+    <content>#greenscreen good day, sir.</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7427188334952287531"/>
+    <published>2024-10-18T18:44:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
