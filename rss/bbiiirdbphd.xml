@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-19T00:00:26+00:00</updated>
+  <updated>2024-10-19T19:10:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7422106277834263851</id>
-    <title>#bear #man #survival #PhD </title>
-    <updated>2024-10-05T02:03:06+00:00</updated>
-    <content>#bear #man #survival #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7422106277834263851"/>
-    <published>2024-10-05T02:03:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7422404593889430826</id>
     <title>#democrats #republicans  #song #sound #unitedstates </title>
@@ -251,6 +243,14 @@
     <content>#neurodivergent #autism #discrimination #ableism #education #bullying #PhD #harassment #abuse #media #communication #disability </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7427269857642614058"/>
     <published>2024-10-19T00:00:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7427566195026431275</id>
+    <title>#duet with @ingrid.j.j #psychology all of this</title>
+    <updated>2024-10-19T19:10:22+00:00</updated>
+    <content>#duet with @ingrid.j.j #psychology all of this</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7427566195026431275"/>
+    <published>2024-10-19T19:10:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
