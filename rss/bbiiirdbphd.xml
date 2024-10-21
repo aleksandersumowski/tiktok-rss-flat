@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-19T22:16:56+00:00</updated>
+  <updated>2024-10-21T19:24:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7422740815862238510</id>
-    <title>However it happened for you, honor your story 🌻🐦‍⬛🌞❤️‍🩹💙💛 #autistic #autisticadult #PhD #media #communication #substanceabuseawareness #selfrealization #envirusment </title>
-    <updated>2024-10-06T19:05:26+00:00</updated>
-    <content>However it happened for you, honor your story 🌻🐦‍⬛🌞❤️‍🩹💙💛 #autistic #autisticadult #PhD #media #communication #substanceabuseawareness #selfrealization #envirusment </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7422740815862238510"/>
-    <published>2024-10-06T19:05:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7423486147914927402</id>
-    <title>@Eli Roth Presents #ghost #media #communication #PhD #ghostshow #horror #bravo </title>
-    <updated>2024-10-08T19:17:45+00:00</updated>
-    <content>@Eli Roth Presents #ghost #media #communication #PhD #ghostshow #horror #bravo </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7423486147914927402"/>
-    <published>2024-10-08T19:17:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7423531583682137390</id>
     <title>#fitcheck </title>
@@ -243,6 +227,22 @@
     <content>Part 3 politics of proximity, and just as Cortina spoke to (Part 1) in their own way, for over five years I have argued that users on TikTok, and algorithmic platforms (despite not being perfect) have inclined a new form capturing and sharing of local eve</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7427614265542004011"/>
     <published>2024-10-19T22:16:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7428271501830278443</id>
+    <title>#midwest #punk #autism #media #communication #PhD #punkkid #emo #millennial #substanceabuse #SA #sv </title>
+    <updated>2024-10-21T16:47:22+00:00</updated>
+    <content>#midwest #punk #autism #media #communication #PhD #punkkid #emo #millennial #substanceabuse #SA #sv </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7428271501830278443"/>
+    <published>2024-10-21T16:47:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7428312063174315307</id>
+    <title>#greenscreen #education #AI #media #communication #PhD #workersrights #ableism #jfc #labor #chatgpt #critical </title>
+    <updated>2024-10-21T19:24:45+00:00</updated>
+    <content>#greenscreen #education #AI #media #communication #PhD #workersrights #ableism #jfc #labor #chatgpt #critical </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7428312063174315307"/>
+    <published>2024-10-21T19:24:45+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
