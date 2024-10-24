@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-23T17:31:39+00:00</updated>
+  <updated>2024-10-24T15:46:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7423870144964775211</id>
-    <title>We all deserve better 🌻🐦‍⬛🌞❤️‍🩹💙💛 #education #democrats #media #communication #PhD #influencers #campaign </title>
-    <updated>2024-10-09T20:07:50+00:00</updated>
-    <content>We all deserve better 🌻🐦‍⬛🌞❤️‍🩹💙💛 #education #democrats #media #communication #PhD #influencers #campaign </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7423870144964775211"/>
-    <published>2024-10-09T20:07:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7423882092330716462</id>
     <title>And it doesn’t need to be this way. We have time to change it. Don’t lose hope. #education #hurricane #flood #media #communication #PhD #sewage #trash #garbage #weaponizedincompentence </title>
@@ -243,6 +235,14 @@
     <content>#fitcheck </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7429025084788198702"/>
     <published>2024-10-23T17:31:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7429369071826636078</id>
+    <title>#fitcheck but it’s just me in 100% cotton “men’s” clothes listening to a not cisheterosexist version of Katie Perry’s I Kissed a Girl 😁</title>
+    <updated>2024-10-24T15:46:29+00:00</updated>
+    <content>#fitcheck but it’s just me in 100% cotton “men’s” clothes listening to a not cisheterosexist version of Katie Perry’s I Kissed a Girl 😁</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7429369071826636078"/>
+    <published>2024-10-24T15:46:29+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
