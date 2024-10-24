@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-24T15:46:29+00:00</updated>
+  <updated>2024-10-24T19:47:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7423882092330716462</id>
-    <title>And it doesn’t need to be this way. We have time to change it. Don’t lose hope. #education #hurricane #flood #media #communication #PhD #sewage #trash #garbage #weaponizedincompentence </title>
-    <updated>2024-10-09T20:54:11+00:00</updated>
-    <content>And it doesn’t need to be this way. We have time to change it. Don’t lose hope. #education #hurricane #flood #media #communication #PhD #sewage #trash #garbage #weaponizedincompentence </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7423882092330716462"/>
-    <published>2024-10-09T20:54:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7423895464593952042</id>
     <title>#peeping #bear #men #media #communication #PhD #iykyk #storytime #education #fyp </title>
@@ -243,6 +235,14 @@
     <content>#fitcheck but it’s just me in 100% cotton “men’s” clothes listening to a not cisheterosexist version of Katie Perry’s I Kissed a Girl 😁</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7429369071826636078"/>
     <published>2024-10-24T15:46:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7429431114260892970</id>
+    <title>#greenscreen #education #grass #waste #foodforest #media #communication #PhD #socialchange #critical #fyp </title>
+    <updated>2024-10-24T19:47:12+00:00</updated>
+    <content>#greenscreen #education #grass #waste #foodforest #media #communication #PhD #socialchange #critical #fyp </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7429431114260892970"/>
+    <published>2024-10-24T19:47:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
