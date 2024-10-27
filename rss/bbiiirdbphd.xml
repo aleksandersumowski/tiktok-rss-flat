@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-26T22:03:31+00:00</updated>
+  <updated>2024-10-27T20:07:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7423895464593952042</id>
-    <title>#peeping #bear #men #media #communication #PhD #iykyk #storytime #education #fyp </title>
-    <updated>2024-10-09T21:46:05+00:00</updated>
-    <content>#peeping #bear #men #media #communication #PhD #iykyk #storytime #education #fyp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7423895464593952042"/>
-    <published>2024-10-09T21:46:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7424261208712285483</id>
-    <title>#education #hurricane #fyp #florida #evacuation #media #communication #PhD #iykyk </title>
-    <updated>2024-10-10T21:25:20+00:00</updated>
-    <content>#education #hurricane #fyp #florida #evacuation #media #communication #PhD #iykyk </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7424261208712285483"/>
-    <published>2024-10-10T21:25:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7424285320738311466</id>
     <title>#education #mentalhealth #emotions #grief #sadness </title>
@@ -267,6 +251,22 @@
     <content>#duet with @Rachel Samples ¯\_(ツ)_/¯  </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7430208407564520747"/>
     <published>2024-10-26T22:03:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7430535783183879467</id>
+    <title>#education #identity #election #media #communication #PhD #queertiktok #transtiktok #disability #autism #roma </title>
+    <updated>2024-10-27T19:13:53+00:00</updated>
+    <content>#education #identity #election #media #communication #PhD #queertiktok #transtiktok #disability #autism #roma </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7430535783183879467"/>
+    <published>2024-10-27T19:13:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7430549526970207534</id>
+    <title>Can y’all buy a fucking vowel already? C_V_D-19 #education #health #denial #delusion #media #communication #PhD #wheeloffortune #mystery </title>
+    <updated>2024-10-27T20:07:15+00:00</updated>
+    <content>Can y’all buy a fucking vowel already? C_V_D-19 #education #health #denial #delusion #media #communication #PhD #wheeloffortune #mystery </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7430549526970207534"/>
+    <published>2024-10-27T20:07:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
