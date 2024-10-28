@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-27T20:54:52+00:00</updated>
+  <updated>2024-10-28T18:39:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7424551493841341742</id>
-    <title>#welp #sound #morals </title>
-    <updated>2024-10-11T16:11:50+00:00</updated>
-    <content>#welp #sound #morals </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7424551493841341742"/>
-    <published>2024-10-11T16:11:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7424594248772717867</id>
-    <title>Three things 🌻🐦‍⬛🗣️❤️‍🩹💙💛 #education #mentalhealth #survival #love #attraction #media #communication #PhD </title>
-    <updated>2024-10-11T18:57:45+00:00</updated>
-    <content>Three things 🌻🐦‍⬛🗣️❤️‍🩹💙💛 #education #mentalhealth #survival #love #attraction #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7424594248772717867"/>
-    <published>2024-10-11T18:57:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7424947609493589291</id>
     <title>#greenscreen #education #fyp #language #discrimination #media #communication #PhD #relationships #millennial #life</title>
@@ -267,6 +251,22 @@
     <content>Forever watermelon bop #dinnerinamerica #stimming #sound #song @edskeggs </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7430561797943463210"/>
     <published>2024-10-27T20:54:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7430889961987067179</id>
+    <title>My order was served 🥹 #cat #cattok #trick #order #served </title>
+    <updated>2024-10-28T18:08:19+00:00</updated>
+    <content>My order was served 🥹 #cat #cattok #trick #order #served </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7430889961987067179"/>
+    <published>2024-10-28T18:08:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7430898023342984494</id>
+    <title>#greenscreen #education #research #denial #delusion #media #communication #PhD #bias #dogma #disability #fyp </title>
+    <updated>2024-10-28T18:39:36+00:00</updated>
+    <content>#greenscreen #education #research #denial #delusion #media #communication #PhD #bias #dogma #disability #fyp </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7430898023342984494"/>
+    <published>2024-10-28T18:39:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
