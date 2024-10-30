@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-30T16:07:53+00:00</updated>
+  <updated>2024-10-30T16:49:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7426081709541674283</id>
-    <title>#greenscreen the results are in #bird #whichone #drumroll </title>
-    <updated>2024-10-15T19:09:50+00:00</updated>
-    <content>#greenscreen the results are in #bird #whichone #drumroll </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7426081709541674283"/>
-    <published>2024-10-15T19:09:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7426091627959029035</id>
     <title>You can read my entire dissertation for free on academia.edu 🌻🐦‍⬛🌞❤️‍🩹💙😷 #greenscreen #education #relationships #digital #love #media #communication #PhD #research #dissertation #fyp </title>
@@ -267,6 +259,14 @@
     <content>H.R.10013 - Education Not Agitation Act of 2024 118th Congress (2023-2024)  #greenscreen #education #critical #research #laws #media #communication #PhD #student #norms #workers #normal #unitedstates #fyp </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7431601099808771374"/>
     <published>2024-10-30T16:07:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7431611783913262379</id>
+    <title>What is “agitation”? My speciality. #education #socialchange #media #communication #PhD</title>
+    <updated>2024-10-30T16:49:22+00:00</updated>
+    <content>What is “agitation”? My speciality. #education #socialchange #media #communication #PhD</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7431611783913262379"/>
+    <published>2024-10-30T16:49:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
