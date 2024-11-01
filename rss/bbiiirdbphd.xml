@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-31T19:30:30+00:00</updated>
+  <updated>2024-10-31T22:04:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7426421608929168682</id>
-    <title>#education #identitypolitics #media #communication #PhD #identity #abuse #community #relationships #maskup #fyp  </title>
-    <updated>2024-10-16T17:08:54+00:00</updated>
-    <content>#education #identitypolitics #media #communication #PhD #identity #abuse #community #relationships #maskup #fyp  </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7426421608929168682"/>
-    <published>2024-10-16T17:08:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7426483987809340715</id>
-    <title>#surgepricing #kroger #fuck #media #communication #PhD #algorithm #ableism #racism #cisheterosexism #pricegouge </title>
-    <updated>2024-10-16T21:10:52+00:00</updated>
-    <content>#surgepricing #kroger #fuck #media #communication #PhD #algorithm #ableism #racism #cisheterosexism #pricegouge </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7426483987809340715"/>
-    <published>2024-10-16T21:10:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7426498179618753838</id>
     <title>Replying to @Ag (Anarchist gnome) #education #kroger #surgepricing #price #gouge #media #communication #PhD</title>
@@ -267,6 +251,22 @@
     <content>No hashtags #happyhalloween </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7432024399697530155"/>
     <published>2024-10-31T19:30:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7432039475674434858</id>
+    <title>It doesn’t need to be this way and we can and must make the changes necessary to ensure it doesn’t. </title>
+    <updated>2024-10-31T20:28:59+00:00</updated>
+    <content>It doesn’t need to be this way and we can and must make the changes necessary to ensure it doesn’t. </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7432039475674434858"/>
+    <published>2024-10-31T20:28:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7432063983957364011</id>
+    <title>Scary, but not Halloween related, storytime #storytime </title>
+    <updated>2024-10-31T22:04:04+00:00</updated>
+    <content>Scary, but not Halloween related, storytime #storytime </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7432063983957364011"/>
+    <published>2024-10-31T22:04:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
