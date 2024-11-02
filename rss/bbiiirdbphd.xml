@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-10-31T22:04:04+00:00</updated>
+  <updated>2024-11-02T00:58:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7426498179618753838</id>
-    <title>Replying to @Ag (Anarchist gnome) #education #kroger #surgepricing #price #gouge #media #communication #PhD</title>
-    <updated>2024-10-16T22:05:57+00:00</updated>
-    <content>Replying to @Ag (Anarchist gnome) #education #kroger #surgepricing #price #gouge #media #communication #PhD</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7426498179618753838"/>
-    <published>2024-10-16T22:05:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7427149340415741230</id>
     <title>#greenscreen #education #democrats #republicans #media #communication #PhD #research #violence #normal</title>
@@ -267,6 +259,14 @@
     <content>Scary, but not Halloween related, storytime #storytime </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7432063983957364011"/>
     <published>2024-10-31T22:04:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7432479908468641067</id>
+    <title>For the thousandth time. This is who I am. Take it or leave it. #stiltedspeech #education #autisticcreator #hyperlexia #media #communication #PhD </title>
+    <updated>2024-11-02T00:58:05+00:00</updated>
+    <content>For the thousandth time. This is who I am. Take it or leave it. #stiltedspeech #education #autisticcreator #hyperlexia #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7432479908468641067"/>
+    <published>2024-11-02T00:58:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
