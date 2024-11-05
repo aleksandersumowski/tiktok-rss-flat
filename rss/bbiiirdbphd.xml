@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-11-03T22:12:51+00:00</updated>
+  <updated>2024-11-04T23:47:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7427188334952287531</id>
-    <title>#greenscreen good day, sir.</title>
-    <updated>2024-10-18T18:44:08+00:00</updated>
-    <content>#greenscreen good day, sir.</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7427188334952287531"/>
-    <published>2024-10-18T18:44:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7427269857642614058</id>
-    <title>#neurodivergent #autism #discrimination #ableism #education #bullying #PhD #harassment #abuse #media #communication #disability </title>
-    <updated>2024-10-19T00:00:26+00:00</updated>
-    <content>#neurodivergent #autism #discrimination #ableism #education #bullying #PhD #harassment #abuse #media #communication #disability </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7427269857642614058"/>
-    <published>2024-10-19T00:00:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7427566195026431275</id>
-    <title>#duet with @ingrid.j.j #psychology all of this</title>
-    <updated>2024-10-19T19:10:22+00:00</updated>
-    <content>#duet with @ingrid.j.j #psychology all of this</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7427566195026431275"/>
-    <published>2024-10-19T19:10:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7427604302388104490</id>
     <title>#greenscreen #education #proximity #politics #critical #media #communication #PhD </title>
@@ -267,6 +243,30 @@
     <content>A peek into what it’s like being a content creator #funny #fyp #media #communication #PhD</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7433179494178917674"/>
     <published>2024-11-03T22:12:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7433545431604301099</id>
+    <title>Don’t be suspicious #fortnite </title>
+    <updated>2024-11-04T21:52:53+00:00</updated>
+    <content>Don’t be suspicious #fortnite </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7433545431604301099"/>
+    <published>2024-11-04T21:52:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7433561930494790955</id>
+    <title>🚗☕️🥃⚰️ Car without the “e” #education #reflection #fyp #machine #repair #health #media #communication #PhD #wordplay #carework #critical </title>
+    <updated>2024-11-04T22:56:55+00:00</updated>
+    <content>🚗☕️🥃⚰️ Car without the “e” #education #reflection #fyp #machine #repair #health #media #communication #PhD #wordplay #carework #critical </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7433561930494790955"/>
+    <published>2024-11-04T22:56:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7433574982548016427</id>
+    <title>Hindsight of Twenty/20s #greenscreen #education #prose #poetry #queer #ism </title>
+    <updated>2024-11-04T23:47:33+00:00</updated>
+    <content>Hindsight of Twenty/20s #greenscreen #education #prose #poetry #queer #ism </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7433574982548016427"/>
+    <published>2024-11-04T23:47:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
