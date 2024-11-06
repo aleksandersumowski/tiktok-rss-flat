@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-11-04T23:47:33+00:00</updated>
+  <updated>2024-11-06T01:35:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7427604302388104490</id>
-    <title>#greenscreen #education #proximity #politics #critical #media #communication #PhD </title>
-    <updated>2024-10-19T21:38:16+00:00</updated>
-    <content>#greenscreen #education #proximity #politics #critical #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7427604302388104490"/>
-    <published>2024-10-19T21:38:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7427608060098563370</id>
-    <title>#part2 #education #politics #proximity #nationalism #media #communication #PhD #critical #research #ableism</title>
-    <updated>2024-10-19T21:52:50+00:00</updated>
-    <content>#part2 #education #politics #proximity #nationalism #media #communication #PhD #critical #research #ableism</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7427608060098563370"/>
-    <published>2024-10-19T21:52:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7427614265542004011</id>
     <title>Part 3 politics of proximity, and just as Cortina spoke to (Part 1) in their own way, for over five years I have argued that users on TikTok, and algorithmic platforms (despite not being perfect) have inclined a new form capturing and sharing of local eve</title>
@@ -267,6 +251,22 @@
     <content>Hindsight of Twenty/20s #greenscreen #education #prose #poetry #queer #ism </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7433574982548016427"/>
     <published>2024-11-04T23:47:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7433964867696004394</id>
+    <title>#greenscreen #ivoted #funny #cast #guilt #democrats #fyp </title>
+    <updated>2024-11-06T01:00:29+00:00</updated>
+    <content>#greenscreen #ivoted #funny #cast #guilt #democrats #fyp </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7433964867696004394"/>
+    <published>2024-11-06T01:00:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7433973971961482542</id>
+    <title>#greenscreen #electionday #thoughts #tweet #funny </title>
+    <updated>2024-11-06T01:35:49+00:00</updated>
+    <content>#greenscreen #electionday #thoughts #tweet #funny </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7433973971961482542"/>
+    <published>2024-11-06T01:35:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
