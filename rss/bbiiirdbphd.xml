@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-11-06T01:35:49+00:00</updated>
+  <updated>2024-11-06T16:07:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7427614265542004011</id>
-    <title>Part 3 politics of proximity, and just as Cortina spoke to (Part 1) in their own way, for over five years I have argued that users on TikTok, and algorithmic platforms (despite not being perfect) have inclined a new form capturing and sharing of local eve</title>
-    <updated>2024-10-19T22:16:56+00:00</updated>
-    <content>Part 3 politics of proximity, and just as Cortina spoke to (Part 1) in their own way, for over five years I have argued that users on TikTok, and algorithmic platforms (despite not being perfect) have inclined a new form capturing and sharing of local eve</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7427614265542004011"/>
-    <published>2024-10-19T22:16:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7428271501830278443</id>
     <title>#midwest #punk #autism #media #communication #PhD #punkkid #emo #millennial #substanceabuse #SA #sv </title>
@@ -267,6 +259,14 @@
     <content>#greenscreen #electionday #thoughts #tweet #funny </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7433973971961482542"/>
     <published>2024-11-06T01:35:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7434198531574893866</id>
+    <title>#education #criticalscholar #leftist #unitedstates #fyp #disappointment #election #media #communication #PhD </title>
+    <updated>2024-11-06T16:07:18+00:00</updated>
+    <content>#education #criticalscholar #leftist #unitedstates #fyp #disappointment #election #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7434198531574893866"/>
+    <published>2024-11-06T16:07:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
