@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-11-09T23:09:21+00:00</updated>
+  <updated>2024-11-10T04:56:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7429811184745893166</id>
-    <title>Thems just the facts ¯\_(ツ)_/¯ </title>
-    <updated>2024-10-25T20:22:05+00:00</updated>
-    <content>Thems just the facts ¯\_(ツ)_/¯ </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7429811184745893166"/>
-    <published>2024-10-25T20:22:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7430208407564520747</id>
     <title>#duet with @Rachel Samples ¯\_(ツ)_/¯  </title>
@@ -267,6 +259,14 @@
     <content>#greenscreen #healing #fyp  #criticalmediaecology #life #education #sick #disability #media #communication #PhD </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7435420566481308970"/>
     <published>2024-11-09T23:09:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7435510128859811114</id>
+    <title>#LIVEhighlights #TikTokLIVE #LIVE #education #race #sex This video is for educational purposes only. </title>
+    <updated>2024-11-10T04:56:56+00:00</updated>
+    <content>#LIVEhighlights #TikTokLIVE #LIVE #education #race #sex This video is for educational purposes only. </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7435510128859811114"/>
+    <published>2024-11-10T04:56:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
