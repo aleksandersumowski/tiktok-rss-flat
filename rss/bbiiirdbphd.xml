@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-11-08T20:12:22+00:00</updated>
+  <updated>2024-11-09T23:09:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7429431114260892970</id>
-    <title>#greenscreen #education #grass #waste #foodforest #media #communication #PhD #socialchange #critical #fyp </title>
-    <updated>2024-10-24T19:47:12+00:00</updated>
-    <content>#greenscreen #education #grass #waste #foodforest #media #communication #PhD #socialchange #critical #fyp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7429431114260892970"/>
-    <published>2024-10-24T19:47:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7429760416047435054</id>
-    <title>Late in life realized #autistic #reflections #emotional #need </title>
-    <updated>2024-10-25T17:05:11+00:00</updated>
-    <content>Late in life realized #autistic #reflections #emotional #need </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7429760416047435054"/>
-    <published>2024-10-25T17:05:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7429811184745893166</id>
     <title>Thems just the facts ¯\_(ツ)_/¯ </title>
@@ -267,6 +251,22 @@
     <content>#greenscreen #education #water #earth #air #fire #media #communication #PhD #survival #healing #cry #fyp </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7435003859300371755"/>
     <published>2024-11-08T20:12:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7435377365615791402</id>
+    <title>#gratitude #education #life #media #communication #PhD #kindness #strength #healing #survival #mentor #thanks</title>
+    <updated>2024-11-09T20:21:45+00:00</updated>
+    <content>#gratitude #education #life #media #communication #PhD #kindness #strength #healing #survival #mentor #thanks</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7435377365615791402"/>
+    <published>2024-11-09T20:21:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7435420566481308970</id>
+    <title>#greenscreen #healing #fyp  #criticalmediaecology #life #education #sick #disability #media #communication #PhD </title>
+    <updated>2024-11-09T23:09:21+00:00</updated>
+    <content>#greenscreen #healing #fyp  #criticalmediaecology #life #education #sick #disability #media #communication #PhD </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7435420566481308970"/>
+    <published>2024-11-09T23:09:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
