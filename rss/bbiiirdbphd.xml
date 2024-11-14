@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-11-13T14:39:19+00:00</updated>
+  <updated>2024-11-14T17:29:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7430561797943463210</id>
-    <title>Forever watermelon bop #dinnerinamerica #stimming #sound #song @edskeggs </title>
-    <updated>2024-10-27T20:54:52+00:00</updated>
-    <content>Forever watermelon bop #dinnerinamerica #stimming #sound #song @edskeggs </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7430561797943463210"/>
-    <published>2024-10-27T20:54:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7430889961987067179</id>
     <title>My order was served 🥹 #cat #cattok #trick #order #served </title>
@@ -267,6 +259,14 @@
     <content>Good morning lil cutie #plant </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7436773462682881326"/>
     <published>2024-11-13T14:39:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7437188453181164843</id>
+    <title>I already don’t like taking showers (sensory wise) as a poor autistic person who also has multiple incidents of trauma that have taken place inside showers. But with C, I can’t just like leave the house and then come back and not take a shower and feel li</title>
+    <updated>2024-11-14T17:29:40+00:00</updated>
+    <content>I already don’t like taking showers (sensory wise) as a poor autistic person who also has multiple incidents of trauma that have taken place inside showers. But with C, I can’t just like leave the house and then come back and not take a shower and feel li</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7437188453181164843"/>
+    <published>2024-11-14T17:29:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
