@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-11-15T20:17:39+00:00</updated>
+  <updated>2024-11-16T19:52:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7431022371974204715</id>
-    <title>#duet with @Essence #selfconfidence #authenticity </title>
-    <updated>2024-10-29T02:42:06+00:00</updated>
-    <content>#duet with @Essence #selfconfidence #authenticity </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7431022371974204715"/>
-    <published>2024-10-29T02:42:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7431283834311773482</id>
     <title>#education #sound #fuck #capitalism #criticalscholar</title>
@@ -267,6 +259,14 @@
     <content>#greenscreen #education #labor #billion #workers #media #communication #PhD </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7437602821815471402"/>
     <published>2024-11-15T20:17:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7437967522554629422</id>
+    <title>#greenscreen #education #bird #flu #health #update</title>
+    <updated>2024-11-16T19:52:51+00:00</updated>
+    <content>#greenscreen #education #bird #flu #health #update</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7437967522554629422"/>
+    <published>2024-11-16T19:52:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
