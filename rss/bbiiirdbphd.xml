@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-11-18T03:43:54+00:00</updated>
+  <updated>2024-11-19T02:09:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7431724344360881450</id>
-    <title>Ultra rare Dr. bird collective read #tarot</title>
-    <updated>2024-10-31T00:06:07+00:00</updated>
-    <content>Ultra rare Dr. bird collective read #tarot</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7431724344360881450"/>
-    <published>2024-10-31T00:06:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7432024399697530155</id>
     <title>No hashtags #happyhalloween </title>
@@ -267,6 +259,14 @@
     <content>Recall #announced by the #FDA November 16, 2024 #greenscreen #carrot #recall #ecolic #health #traderjoes #wholefoods #wegmans #grimmwayfarms #fyp</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7438459999208131882"/>
     <published>2024-11-18T03:43:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7438806740675595566</id>
+    <title>#greenscreen #education #bird #flu #infographic #health #rawmilk #sickness </title>
+    <updated>2024-11-19T02:09:26+00:00</updated>
+    <content>#greenscreen #education #bird #flu #infographic #health #rawmilk #sickness </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7438806740675595566"/>
+    <published>2024-11-19T02:09:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
