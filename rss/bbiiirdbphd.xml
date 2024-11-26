@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-11-23T17:23:24+00:00</updated>
+  <updated>2024-11-26T00:10:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7432039475674434858</id>
-    <title>It doesn’t need to be this way and we can and must make the changes necessary to ensure it doesn’t. </title>
-    <updated>2024-10-31T20:28:59+00:00</updated>
-    <content>It doesn’t need to be this way and we can and must make the changes necessary to ensure it doesn’t. </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7432039475674434858"/>
-    <published>2024-10-31T20:28:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7432063983957364011</id>
-    <title>Scary, but not Halloween related, storytime #storytime </title>
-    <updated>2024-10-31T22:04:04+00:00</updated>
-    <content>Scary, but not Halloween related, storytime #storytime </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7432063983957364011"/>
-    <published>2024-10-31T22:04:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7432479908468641067</id>
     <title>For the thousandth time. This is who I am. Take it or leave it. #stiltedspeech #education #autisticcreator #hyperlexia #media #communication #PhD </title>
@@ -267,6 +251,22 @@
     <content>#greenscreen #education #health #misinformation #wearamask #pneumonia </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7440526608001256750"/>
     <published>2024-11-23T17:23:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7441346914877984046</id>
+    <title>#update #whathaveibeenupto </title>
+    <updated>2024-11-25T22:26:36+00:00</updated>
+    <content>#update #whathaveibeenupto </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7441346914877984046"/>
+    <published>2024-11-25T22:26:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7441373717290093866</id>
+    <title>#offgrid #house #sustainable #toxin #environment #poison #funny #parody #butseriously </title>
+    <updated>2024-11-26T00:10:37+00:00</updated>
+    <content>#offgrid #house #sustainable #toxin #environment #poison #funny #parody #butseriously </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7441373717290093866"/>
+    <published>2024-11-26T00:10:37+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
