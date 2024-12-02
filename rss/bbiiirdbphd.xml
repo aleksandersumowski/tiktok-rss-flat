@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-11-30T21:26:33+00:00</updated>
+  <updated>2024-12-02T17:40:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7434259769613094190</id>
-    <title>#education #election #pause #rest #carework #liberation #health #wellbeing #reminder #media #communication #PhD #queer #autistic #stimming</title>
-    <updated>2024-11-06T20:04:56+00:00</updated>
-    <content>#education #election #pause #rest #carework #liberation #health #wellbeing #reminder #media #communication #PhD #queer #autistic #stimming</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7434259769613094190"/>
-    <published>2024-11-06T20:04:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7434315982094503211</id>
     <title>2025 Update #repeat #after #me #humanrights #funny #butseriously #organize #fyp </title>
@@ -267,6 +259,14 @@
     <content>#greenscreen #ai #education #fyp #author #chatgpt #life #criticalmediaecology #book #booktok #summary #critique </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7443186860198743338"/>
     <published>2024-11-30T21:26:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7443870787490090283</id>
+    <title>#education #survival #fyp #inspiration #healing #C19 #abuse #trauma #violence #feminism #substanceabuse </title>
+    <updated>2024-12-02T17:40:36+00:00</updated>
+    <content>#education #survival #fyp #inspiration #healing #C19 #abuse #trauma #violence #feminism #substanceabuse </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7443870787490090283"/>
+    <published>2024-12-02T17:40:36+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
