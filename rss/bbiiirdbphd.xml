@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-12-03T04:59:51+00:00</updated>
+  <updated>2024-12-03T19:17:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7435003859300371755</id>
-    <title>#greenscreen #education #water #earth #air #fire #media #communication #PhD #survival #healing #cry #fyp </title>
-    <updated>2024-11-08T20:12:22+00:00</updated>
-    <content>#greenscreen #education #water #earth #air #fire #media #communication #PhD #survival #healing #cry #fyp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7435003859300371755"/>
-    <published>2024-11-08T20:12:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7435377365615791402</id>
-    <title>#gratitude #education #life #media #communication #PhD #kindness #strength #healing #survival #mentor #thanks</title>
-    <updated>2024-11-09T20:21:45+00:00</updated>
-    <content>#gratitude #education #life #media #communication #PhD #kindness #strength #healing #survival #mentor #thanks</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7435377365615791402"/>
-    <published>2024-11-09T20:21:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7435420566481308970</id>
     <title>#greenscreen #healing #fyp  #criticalmediaecology #life #education #sick #disability #media #communication #PhD </title>
@@ -267,6 +251,22 @@
     <content>#education #simple #lessons #disinformation #propaganda </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7444045836448779563"/>
     <published>2024-12-03T04:59:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7444221634002652462</id>
+    <title>#education #deregulation #colonialism #capitalism #media #communication #PhD</title>
+    <updated>2024-12-03T16:22:03+00:00</updated>
+    <content>#education #deregulation #colonialism #capitalism #media #communication #PhD</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7444221634002652462"/>
+    <published>2024-12-03T16:22:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7444266951007849774</id>
+    <title>Replying to @Dr. Bernadette bird Bowen🐦‍⬛ #education #health </title>
+    <updated>2024-12-03T19:17:52+00:00</updated>
+    <content>Replying to @Dr. Bernadette bird Bowen🐦‍⬛ #education #health </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7444266951007849774"/>
+    <published>2024-12-03T19:17:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
