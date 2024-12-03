@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-12-02T17:40:36+00:00</updated>
+  <updated>2024-12-03T00:42:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7434315982094503211</id>
-    <title>2025 Update #repeat #after #me #humanrights #funny #butseriously #organize #fyp </title>
-    <updated>2024-11-06T23:43:00+00:00</updated>
-    <content>2025 Update #repeat #after #me #humanrights #funny #butseriously #organize #fyp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7434315982094503211"/>
-    <published>2024-11-06T23:43:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7434966614220524843</id>
     <title>#greenscreen #education #fyp #autistic #alone #humanrights #media #communication #PhD  #boundaries #healing #survive</title>
@@ -267,6 +259,14 @@
     <content>#education #survival #fyp #inspiration #healing #C19 #abuse #trauma #violence #feminism #substanceabuse </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7443870787490090283"/>
     <published>2024-12-02T17:40:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7443979403287072042</id>
+    <title>Whatever it was hopefully you can find a lesson in it and/or heal from it 🌻🐦‍⬛🌞❤️‍🩹💙💛 #education #reminder #fyp #healing #survival #inspiration </title>
+    <updated>2024-12-03T00:42:00+00:00</updated>
+    <content>Whatever it was hopefully you can find a lesson in it and/or heal from it 🌻🐦‍⬛🌞❤️‍🩹💙💛 #education #reminder #fyp #healing #survival #inspiration </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7443979403287072042"/>
+    <published>2024-12-03T00:42:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
