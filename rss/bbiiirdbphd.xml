@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-12-04T17:07:31+00:00</updated>
+  <updated>2024-12-05T15:35:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7435775312769584427</id>
-    <title>#LIVEhighlights #TikTokLIVE #education #live #poetry </title>
-    <updated>2024-11-10T22:05:56+00:00</updated>
-    <content>#LIVEhighlights #TikTokLIVE #education #live #poetry </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7435775312769584427"/>
-    <published>2024-11-10T22:05:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7436444338902633771</id>
-    <title>#living #learning #mutualaid #media #communication #PhD #movement #cold #hunger</title>
-    <updated>2024-11-12T17:22:11+00:00</updated>
-    <content>#living #learning #mutualaid #media #communication #PhD #movement #cold #hunger</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7436444338902633771"/>
-    <published>2024-11-12T17:22:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7436773462682881326</id>
     <title>Good morning lil cutie #plant </title>
@@ -267,6 +251,22 @@
     <content>#dreams #education #identity #media #communication #PhD  #healing #inspiration #lesson </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7444604450901085482"/>
     <published>2024-12-04T17:07:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7444937716619283754</id>
+    <title>Nothing to see here algorithm. Just another little get ready with me post. #breaking #worldupdate </title>
+    <updated>2024-12-05T14:40:45+00:00</updated>
+    <content>Nothing to see here algorithm. Just another little get ready with me post. #breaking #worldupdate </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7444937716619283754"/>
+    <published>2024-12-05T14:40:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7444951937356713262</id>
+    <title>Immediate repost bc captions #insecurities #strengths </title>
+    <updated>2024-12-05T15:35:58+00:00</updated>
+    <content>Immediate repost bc captions #insecurities #strengths </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7444951937356713262"/>
+    <published>2024-12-05T15:35:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
