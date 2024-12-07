@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-12-06T19:04:56+00:00</updated>
+  <updated>2024-12-07T01:21:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7438302332061814059</id>
-    <title>Sorry for this mistake. Please share so folks see my correction. #greenscreen #education #bird #flu #update #health @Cakelin </title>
-    <updated>2024-11-17T17:32:05+00:00</updated>
-    <content>Sorry for this mistake. Please share so folks see my correction. #greenscreen #education #bird #flu #update #health @Cakelin </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7438302332061814059"/>
-    <published>2024-11-17T17:32:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7438307085839764778</id>
     <title>Sorry for this mistake. Please share so that folks see my correction. #greenscreen #education #bird #flu #update #health </title>
@@ -267,6 +259,14 @@
     <content>#greenscreen #newyork #fyp </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7445376868234251566"/>
     <published>2024-12-06T19:04:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7445473889926286638</id>
+    <title>#pomegranate #customer </title>
+    <updated>2024-12-07T01:21:21+00:00</updated>
+    <content>#pomegranate #customer </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7445473889926286638"/>
+    <published>2024-12-07T01:21:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
