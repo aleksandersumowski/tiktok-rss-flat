@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-12-07T23:49:01+00:00</updated>
+  <updated>2024-12-08T17:25:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7438402408780254510</id>
-    <title>Watch the whole thing #science #greenscreen #funfact #themoreyouknow #fyp #funny #venmo #paypal #cashapp #buymeacoffee </title>
-    <updated>2024-11-18T00:00:26+00:00</updated>
-    <content>Watch the whole thing #science #greenscreen #funfact #themoreyouknow #fyp #funny #venmo #paypal #cashapp #buymeacoffee </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7438402408780254510"/>
-    <published>2024-11-18T00:00:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7438459999208131882</id>
     <title>Recall #announced by the #FDA November 16, 2024 #greenscreen #carrot #recall #ecolic #health #traderjoes #wholefoods #wegmans #grimmwayfarms #fyp</title>
@@ -267,6 +259,14 @@
     <content>#education #growth #healing #inspiration #identity #love </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7445821176938581294"/>
     <published>2024-12-07T23:49:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7446093401352621354</id>
+    <title>An interpretive dance #newyork </title>
+    <updated>2024-12-08T17:25:24+00:00</updated>
+    <content>An interpretive dance #newyork </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7446093401352621354"/>
+    <published>2024-12-08T17:25:24+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
