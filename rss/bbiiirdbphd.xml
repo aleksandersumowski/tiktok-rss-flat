@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-12-08T17:25:24+00:00</updated>
+  <updated>2024-12-10T19:51:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7438459999208131882</id>
-    <title>Recall #announced by the #FDA November 16, 2024 #greenscreen #carrot #recall #ecolic #health #traderjoes #wholefoods #wegmans #grimmwayfarms #fyp</title>
-    <updated>2024-11-18T03:43:54+00:00</updated>
-    <content>Recall #announced by the #FDA November 16, 2024 #greenscreen #carrot #recall #ecolic #health #traderjoes #wholefoods #wegmans #grimmwayfarms #fyp</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7438459999208131882"/>
-    <published>2024-11-18T03:43:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7438806740675595566</id>
-    <title>#greenscreen #education #bird #flu #infographic #health #rawmilk #sickness </title>
-    <updated>2024-11-19T02:09:26+00:00</updated>
-    <content>#greenscreen #education #bird #flu #infographic #health #rawmilk #sickness </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7438806740675595566"/>
-    <published>2024-11-19T02:09:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7440526608001256750</id>
     <title>#greenscreen #education #health #misinformation #wearamask #pneumonia </title>
@@ -267,6 +251,22 @@
     <content>An interpretive dance #newyork </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7446093401352621354"/>
     <published>2024-12-08T17:25:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7446857035246816555</id>
+    <title>#greenscreen my Dr. bird’s eye view on #newyork #adjuster </title>
+    <updated>2024-12-10T18:48:42+00:00</updated>
+    <content>#greenscreen my Dr. bird’s eye view on #newyork #adjuster </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7446857035246816555"/>
+    <published>2024-12-10T18:48:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7446873075120901422</id>
+    <title>#food #eating #safefood #autisticcreator #autisticadult </title>
+    <updated>2024-12-10T19:51:12+00:00</updated>
+    <content>#food #eating #safefood #autisticcreator #autisticadult </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7446873075120901422"/>
+    <published>2024-12-10T19:51:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
