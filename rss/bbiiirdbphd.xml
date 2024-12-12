@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-12-10T19:51:12+00:00</updated>
+  <updated>2024-12-12T05:13:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7440526608001256750</id>
-    <title>#greenscreen #education #health #misinformation #wearamask #pneumonia </title>
-    <updated>2024-11-23T17:23:24+00:00</updated>
-    <content>#greenscreen #education #health #misinformation #wearamask #pneumonia </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7440526608001256750"/>
-    <published>2024-11-23T17:23:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7441346914877984046</id>
     <title>#update #whathaveibeenupto </title>
@@ -267,6 +259,14 @@
     <content>#food #eating #safefood #autisticcreator #autisticadult </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7446873075120901422"/>
     <published>2024-12-10T19:51:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7447389125512023339</id>
+    <title>I have been the bad guy: Neuroqueer Self-Realizations in the Algorithmic Envirusment #storytime #survival #horror #media #communication #PhD #memoir #booktok #greenpeace #leadership #summit </title>
+    <updated>2024-12-12T05:13:28+00:00</updated>
+    <content>I have been the bad guy: Neuroqueer Self-Realizations in the Algorithmic Envirusment #storytime #survival #horror #media #communication #PhD #memoir #booktok #greenpeace #leadership #summit </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7447389125512023339"/>
+    <published>2024-12-12T05:13:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
