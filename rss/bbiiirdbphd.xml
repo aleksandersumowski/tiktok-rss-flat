@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-12-13T21:47:47+00:00</updated>
+  <updated>2024-12-14T20:58:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7441639004358905131</id>
-    <title>#greenscreen #identity #fyp #home #poem #poet #poetry</title>
-    <updated>2024-11-26T17:20:04+00:00</updated>
-    <content>#greenscreen #identity #fyp #home #poem #poet #poetry</content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7441639004358905131"/>
-    <published>2024-11-26T17:20:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7442024413693791530</id>
     <title>Replying to @Liz LaFleur #education #water #plastic #criticalmediaecology #fyp </title>
@@ -267,6 +259,14 @@
     <content>The Environmental Protection Agency reports indoor air can sometimes be up to 100 times worse than outside. And, like anything else, this phenomena compounds with environmental racisms and injustices #air #education #plastic #voc #poison #cleaning #chemic</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7448016445746892078"/>
     <published>2024-12-13T21:47:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7448374763363257646</id>
+    <title>🤫 it’s a secret 🪴🌹🪻</title>
+    <updated>2024-12-14T20:58:14+00:00</updated>
+    <content>🤫 it’s a secret 🪴🌹🪻</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7448374763363257646"/>
+    <published>2024-12-14T20:58:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
