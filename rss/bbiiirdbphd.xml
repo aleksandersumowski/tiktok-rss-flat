@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-12-15T00:42:37+00:00</updated>
+  <updated>2024-12-16T17:49:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7442476454211898666</id>
-    <title>Don’t glorify either. They’re both completely fucked. #education #unitedstates #emotionless #propaganda #media #communication #PhD </title>
-    <updated>2024-11-28T23:29:48+00:00</updated>
-    <content>Don’t glorify either. They’re both completely fucked. #education #unitedstates #emotionless #propaganda #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7442476454211898666"/>
-    <published>2024-11-28T23:29:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7443125873873653035</id>
     <title>And The Bar is LOW. Choose to be better, when the lessons are presented to you, no matter how many drinks it takes you. #education #life #bar #scene #lifelesson #inspiration #fyp </title>
@@ -267,6 +259,14 @@
     <content>🤭</content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7448432585098775850"/>
     <published>2024-12-15T00:42:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7449068328934575403</id>
+    <title>#greenscreen #well #fuck #identity #inspiration #healing #trauma #processing #fyp  </title>
+    <updated>2024-12-16T17:49:42+00:00</updated>
+    <content>#greenscreen #well #fuck #identity #inspiration #healing #trauma #processing #fyp  </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7449068328934575403"/>
+    <published>2024-12-16T17:49:42+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
