@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-12-16T17:49:42+00:00</updated>
+  <updated>2024-12-18T03:46:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7443125873873653035</id>
-    <title>And The Bar is LOW. Choose to be better, when the lessons are presented to you, no matter how many drinks it takes you. #education #life #bar #scene #lifelesson #inspiration #fyp </title>
-    <updated>2024-11-30T17:29:54+00:00</updated>
-    <content>And The Bar is LOW. Choose to be better, when the lessons are presented to you, no matter how many drinks it takes you. #education #life #bar #scene #lifelesson #inspiration #fyp </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7443125873873653035"/>
-    <published>2024-11-30T17:29:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7443168005015555370</id>
     <title>#greenscreen #education #ai #criticalmediaecology #author #chatgpt #booktok #critique </title>
@@ -267,6 +259,14 @@
     <content>#greenscreen #well #fuck #identity #inspiration #healing #trauma #processing #fyp  </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7449068328934575403"/>
     <published>2024-12-16T17:49:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7449593262735920430</id>
+    <title>At the end of the day, people who won’t forgive you for not knowing everything and acting to their personal preference all the time are expecting the impossible, and are harmful to your ability to grow. Many people aren’t meant to be in our lives forever,</title>
+    <updated>2024-12-18T03:46:40+00:00</updated>
+    <content>At the end of the day, people who won’t forgive you for not knowing everything and acting to their personal preference all the time are expecting the impossible, and are harmful to your ability to grow. Many people aren’t meant to be in our lives forever,</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7449593262735920430"/>
+    <published>2024-12-18T03:46:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
