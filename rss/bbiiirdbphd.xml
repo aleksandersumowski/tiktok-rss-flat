@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-12-18T17:27:27+00:00</updated>
+  <updated>2024-12-21T22:01:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7442476454211898666</id>
-    <title>Don’t glorify either. They’re both completely fucked. #education #unitedstates #emotionless #propaganda #media #communication #PhD </title>
-    <updated>2024-11-28T23:29:48+00:00</updated>
-    <content>Don’t glorify either. They’re both completely fucked. #education #unitedstates #emotionless #propaganda #media #communication #PhD </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7442476454211898666"/>
-    <published>2024-11-28T23:29:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7443125873873653035</id>
     <title>And The Bar is LOW. Choose to be better, when the lessons are presented to you, no matter how many drinks it takes you. #education #life #bar #scene #lifelesson #inspiration #fyp </title>
@@ -291,6 +283,14 @@
     <content>#greenscreen #education #fyp  #punkkid #midwest #lesson @Circa Survive #thankyou </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7449804776927284523"/>
     <published>2024-12-18T17:27:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7450988755294358827</id>
+    <title>The life update is: I am resting, donating, and/or replacing all my belongings so they poison me significantly less 🌻🐦‍⬛🌞❤️‍🩹💙💛</title>
+    <updated>2024-12-21T22:01:52+00:00</updated>
+    <content>The life update is: I am resting, donating, and/or replacing all my belongings so they poison me significantly less 🌻🐦‍⬛🌞❤️‍🩹💙💛</content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7450988755294358827"/>
+    <published>2024-12-21T22:01:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
