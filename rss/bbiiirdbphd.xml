@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbiiirdbphd</id>
   <title>bbiiirdbphd TikTok</title>
-  <updated>2024-12-22T20:34:38+00:00</updated>
+  <updated>2024-12-24T01:47:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://aleksandersumowski.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbiiirdbphd</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbiiirdbphd/video/7443168005015555370</id>
-    <title>#greenscreen #education #ai #criticalmediaecology #author #chatgpt #booktok #critique </title>
-    <updated>2024-11-30T20:13:22+00:00</updated>
-    <content>#greenscreen #education #ai #criticalmediaecology #author #chatgpt #booktok #critique </content>
-    <link href="https://tiktok.com/@bbiiirdbphd/video/7443168005015555370"/>
-    <published>2024-11-30T20:13:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7443172048047983918</id>
     <title>#greenscreen #education #ai #criticalmediaecology #author #chatgpt #booktok #critique </title>
@@ -291,6 +283,14 @@
     <content>#greenscreen I have been the bad guy #education #lesson #media #communication #PhD #survival #abuse #justice #fyp </content>
     <link href="https://tiktok.com/@bbiiirdbphd/video/7451337357652970795"/>
     <published>2024-12-22T20:34:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbiiirdbphd/video/7451788975695531310</id>
+    <title>#discourse #tiktok #amazon #aliens #drones #unitedstates </title>
+    <updated>2024-12-24T01:47:07+00:00</updated>
+    <content>#discourse #tiktok #amazon #aliens #drones #unitedstates </content>
+    <link href="https://tiktok.com/@bbiiirdbphd/video/7451788975695531310"/>
+    <published>2024-12-24T01:47:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@bbiiirdbphd/video/7316613749539032366</id>
